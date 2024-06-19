@@ -1,9 +1,9 @@
-**Stunting-Prediction-App**
+**SiGizi-App**
 
 
 **Overview**
 
-Stunting Prediction App adalah aplikasi berbasis machine learning yang dirancang untuk memprediksi kemungkinan stunting pada anak berdasarkan parameter umur, jenis kelamin, tinggi, berat dan lingkar kepala. Aplikasi ini memanfaatkan teknik pemrosesan data dan machine learning untuk memberikan prediksi awal, membantu profesional kesehatan dalam membuat keputusan yang tepat.
+SiGizi App adalah aplikasi berbasis machine learning yang dirancang untuk memprediksi kemungkinan stunting pada anak berdasarkan parameter umur, jenis kelamin, tinggi, berat dan lingkar kepala. Aplikasi ini memanfaatkan teknik pemrosesan data dan machine learning untuk memberikan prediksi awal, membantu profesional kesehatan dalam membuat keputusan yang tepat.
 
 
 **Features**
