@@ -1,0 +1,3601 @@
+umur,Jenis Kelamin,Berat Badan,Panjang Badan,Lingkar Kepala,Keterangan
+0,Laki Laki,2,50,30,stunting
+0,Laki Laki,1,45,36,stunting
+0,Laki Laki,4,41,32,stunting
+0,Laki Laki,2,43,34,stunting
+0,Laki Laki,2,47,30,stunting
+0,Laki Laki,1,46,33,stunting
+0,Laki Laki,2,52,32,stunting
+0,Laki Laki,3,44,36,stunting
+0,Laki Laki,4,47,35,tidak stunting
+0,Laki Laki,2,48,32,stunting
+0,Laki Laki,1,43,36,stunting
+0,Laki Laki,3,45,31,stunting
+0,Laki Laki,3,41,33,stunting
+0,Laki Laki,2,49,34,stunting
+0,Laki Laki,1,41,35,stunting
+0,Laki Laki,2,52,35,stunting
+0,Laki Laki,4,48,33,tidak stunting
+0,Laki Laki,1,49,30,stunting
+0,Laki Laki,3,45,32,stunting
+0,Laki Laki,4,53,36,tidak stunting
+0,Laki Laki,2,45,30,stunting
+0,Laki Laki,1,49,32,stunting
+0,Laki Laki,2,52,35,stunting
+0,Laki Laki,3,40,31,stunting
+0,Laki Laki,2,53,36,stunting
+0,Laki Laki,1,40,33,stunting
+0,Laki Laki,3,48,35,tidak stunting
+0,Laki Laki,4,53,35,tidak stunting
+0,Laki Laki,1,43,35,stunting
+0,Laki Laki,4,52,31,stunting
+0,Laki Laki,3,50,30,stunting
+0,Laki Laki,1,53,36,stunting
+0,Laki Laki,2,42,30,stunting
+0,Laki Laki,1,43,30,stunting
+0,Laki Laki,2,49,35,stunting
+0,Laki Laki,3,40,34,stunting
+0,Laki Laki,1,44,33,stunting
+0,Laki Laki,2,51,31,stunting
+0,Laki Laki,3,53,30,stunting
+0,Laki Laki,4,50,34,tidak stunting
+0,Laki Laki,3,49,32,stunting
+0,Laki Laki,3,41,30,stunting
+0,Laki Laki,4,49,35,tidak stunting
+0,Laki Laki,1,51,34,stunting
+0,Laki Laki,1,48,32,stunting
+0,Laki Laki,3,50,32,stunting
+0,Laki Laki,2,41,33,stunting
+0,Laki Laki,2,45,32,stunting
+0,Laki Laki,1,51,33,stunting
+0,Laki Laki,4,50,34,tidak stunting
+0,Perempuan,3,46,31,stunting
+0,Perempuan,2,49,33,stunting
+0,Perempuan,2,42,30,stunting
+0,Perempuan,1,45,33,stunting
+0,Perempuan,3,41,31,stunting
+0,Perempuan,2,40,32,stunting
+0,Perempuan,2,43,31,stunting
+0,Perempuan,4,50,35,tidak stunting
+0,Perempuan,3,41,33,stunting
+0,Perempuan,2,50,31,stunting
+0,Perempuan,1,43,32,stunting
+0,Perempuan,3,52,31,stunting
+0,Perempuan,3,46,30,stunting
+0,Perempuan,3,48,32,stunting
+0,Perempuan,4,48,34,tidak stunting
+0,Perempuan,4,51,31,stunting
+0,Perempuan,2,50,32,stunting
+0,Perempuan,4,46,35,stunting
+0,Perempuan,3,40,32,stunting
+0,Perempuan,3,49,33,tidak stunting
+0,Perempuan,1,41,30,stunting
+0,Perempuan,1,51,33,stunting
+0,Perempuan,4,45,30,stunting
+0,Perempuan,3,44,33,stunting
+0,Perempuan,4,42,33,stunting
+0,Perempuan,1,45,34,stunting
+0,Perempuan,4,52,31,stunting
+0,Perempuan,3,50,30,stunting
+0,Perempuan,2,43,30,stunting
+0,Perempuan,1,46,35,stunting
+0,Perempuan,3,44,35,stunting
+0,Perempuan,3,51,33,tidak stunting
+0,Perempuan,4,47,35,tidak stunting
+0,Perempuan,3,47,31,stunting
+0,Perempuan,3,49,34,tidak stunting
+0,Perempuan,3,42,30,stunting
+0,Perempuan,2,41,30,stunting
+0,Perempuan,3,43,31,stunting
+0,Perempuan,3,48,35,tidak stunting
+0,Perempuan,1,48,32,stunting
+0,Perempuan,2,41,33,stunting
+0,Perempuan,2,49,32,stunting
+0,Perempuan,3,45,35,stunting
+0,Perempuan,3,45,35,stunting
+0,Perempuan,3,43,35,stunting
+0,Perempuan,4,50,31,stunting
+0,Perempuan,3,42,32,stunting
+0,Perempuan,4,51,32,stunting
+0,Perempuan,2,40,34,stunting
+0,Perempuan,4,46,34,stunting
+1,Laki Laki,4,56,30,stunting
+1,Laki Laki,4,54,31,stunting
+1,Laki Laki,3,56,31,stunting
+1,Laki Laki,2,58,36,stunting
+1,Laki Laki,4,50,32,tidak stunting
+1,Laki Laki,2,56,35,stunting
+1,Laki Laki,5,55,36,stunting
+1,Laki Laki,3,58,34,stunting
+1,Laki Laki,4,58,30,stunting
+1,Laki Laki,5,58,30,tidak stunting
+1,Laki Laki,2,55,32,stunting
+1,Laki Laki,4,52,36,stunting
+1,Laki Laki,3,50,34,stunting
+1,Laki Laki,3,57,34,stunting
+1,Laki Laki,3,55,34,tidak stunting
+1,Laki Laki,2,56,36,tidak stunting
+1,Laki Laki,4,57,33,tidak stunting
+1,Laki Laki,5,53,36,stunting
+1,Laki Laki,5,52,35,stunting
+1,Laki Laki,4,49,30,stunting
+1,Laki Laki,5,55,31,stunting
+1,Laki Laki,6,52,32,stunting
+1,Laki Laki,5,55,32,tidak stunting
+1,Laki Laki,2,58,36,stunting
+1,Laki Laki,4,58,34,stunting
+1,Laki Laki,3,51,31,stunting
+1,Laki Laki,3,58,33,stunting
+1,Laki Laki,2,57,30,tidak stunting
+1,Laki Laki,2,53,34,tidak stunting
+1,Laki Laki,4,55,34,stunting
+1,Laki Laki,6,52,36,stunting
+1,Laki Laki,3,54,33,stunting
+1,Laki Laki,2,55,33,tidak stunting
+1,Laki Laki,4,49,36,tidak stunting
+1,Laki Laki,6,56,35,tidak stunting
+1,Laki Laki,5,53,33,tidak stunting
+1,Laki Laki,6,57,36,stunting
+1,Laki Laki,6,57,35,stunting
+1,Laki Laki,5,51,31,stunting
+1,Laki Laki,2,52,36,tidak stunting
+1,Laki Laki,3,50,34,stunting
+1,Laki Laki,4,54,36,stunting
+1,Laki Laki,2,53,32,stunting
+1,Laki Laki,4,57,32,tidak stunting
+1,Laki Laki,3,57,34,stunting
+1,Laki Laki,5,54,36,stunting
+1,Laki Laki,3,52,34,stunting
+1,Laki Laki,6,49,32,stunting
+1,Laki Laki,3,50,34,stunting
+1,Laki Laki,2,58,30,stunting
+1,Perempuan,4,52,31,stunting
+1,Perempuan,3,53,34,stunting
+1,Perempuan,2,50,34,stunting
+1,Perempuan,2,54,34,stunting
+1,Perempuan,3,48,32,stunting
+1,Perempuan,2,51,33,stunting
+1,Perempuan,3,49,34,stunting
+1,Perempuan,5,50,34,tidak stunting
+1,Perempuan,5,48,33,stunting
+1,Perempuan,5,55,34,tidak stunting
+1,Perempuan,4,48,34,stunting
+1,Perempuan,5,52,33,tidak stunting
+1,Perempuan,3,53,33,stunting
+1,Perempuan,4,48,32,stunting
+1,Perempuan,2,56,34,stunting
+1,Perempuan,4,52,32,stunting
+1,Perempuan,4,57,35,tidak stunting
+1,Perempuan,2,55,35,stunting
+1,Perempuan,2,55,34,stunting
+1,Perempuan,4,53,32,stunting
+1,Perempuan,2,48,33,stunting
+1,Perempuan,3,55,33,stunting
+1,Perempuan,3,49,31,stunting
+1,Perempuan,5,53,32,stunting
+1,Perempuan,4,53,34,tidak stunting
+1,Perempuan,4,53,34,tidak stunting
+1,Perempuan,4,54,31,stunting
+1,Perempuan,3,51,35,stunting
+1,Perempuan,3,49,33,stunting
+1,Perempuan,3,53,35,stunting
+1,Perempuan,4,57,33,tidak stunting
+1,Perempuan,4,53,33,tidak stunting
+1,Perempuan,4,57,34,tidak stunting
+1,Perempuan,2,57,31,stunting
+1,Perempuan,4,57,35,tidak stunting
+1,Perempuan,5,50,33,tidak stunting
+1,Perempuan,4,48,33,stunting
+1,Perempuan,3,54,32,stunting
+1,Perempuan,4,53,35,tidak stunting
+1,Perempuan,4,50,33,tidak stunting
+1,Perempuan,3,53,33,stunting
+1,Perempuan,5,53,35,tidak stunting
+1,Perempuan,3,53,31,stunting
+1,Perempuan,3,52,34,stunting
+1,Perempuan,4,57,33,tidak stunting
+1,Perempuan,2,48,34,stunting
+1,Perempuan,5,54,35,tidak stunting
+1,Perempuan,5,55,31,stunting
+1,Perempuan,3,49,31,stunting
+1,Perempuan,2,50,35,stunting
+2,Laki Laki,7,58,35,tidak stunting
+2,Laki Laki,4,59,32,stunting
+2,Laki Laki,7,57,31,stunting
+2,Laki Laki,7,62,33,tidak stunting
+2,Laki Laki,4,56,31,stunting
+2,Laki Laki,7,54,34,stunting
+2,Laki Laki,5,57,31,stunting
+2,Laki Laki,4,60,36,stunting
+2,Laki Laki,5,55,34,tidak stunting
+2,Laki Laki,5,57,31,stunting
+2,Laki Laki,6,59,32,stunting
+2,Laki Laki,7,61,36,tidak stunting
+2,Laki Laki,4,55,31,stunting
+2,Laki Laki,4,55,32,stunting
+2,Laki Laki,4,59,31,stunting
+2,Laki Laki,6,60,35,tidak stunting
+2,Laki Laki,7,54,32,stunting
+2,Laki Laki,6,61,36,tidak stunting
+2,Laki Laki,6,54,34,stunting
+2,Laki Laki,5,60,31,stunting
+2,Laki Laki,5,57,34,tidak stunting
+2,Laki Laki,4,59,34,stunting
+2,Laki Laki,6,58,35,tidak stunting
+2,Laki Laki,5,55,33,tidak stunting
+2,Laki Laki,5,55,34,tidak stunting
+2,Laki Laki,4,60,31,stunting
+2,Laki Laki,4,54,32,stunting
+2,Laki Laki,4,61,31,stunting
+2,Laki Laki,4,59,34,stunting
+2,Laki Laki,4,54,32,stunting
+2,Laki Laki,7,56,34,tidak stunting
+2,Laki Laki,5,61,34,tidak stunting
+2,Laki Laki,7,54,34,stunting
+2,Laki Laki,5,54,35,stunting
+2,Laki Laki,7,62,34,tidak stunting
+2,Laki Laki,6,59,32,stunting
+2,Laki Laki,5,58,35,tidak stunting
+2,Laki Laki,7,57,33,tidak stunting
+2,Laki Laki,4,55,32,stunting
+2,Laki Laki,7,58,33,tidak stunting
+2,Laki Laki,5,57,32,stunting
+2,Laki Laki,7,55,32,stunting
+2,Laki Laki,4,55,34,stunting
+2,Laki Laki,7,59,31,stunting
+2,Laki Laki,4,54,34,stunting
+2,Laki Laki,4,54,36,stunting
+2,Laki Laki,7,57,34,tidak stunting
+2,Laki Laki,5,58,31,stunting
+2,Laki Laki,6,59,35,tidak stunting
+2,Laki Laki,6,54,31,stunting
+2,Perempuan,3,56,32,stunting
+2,Perempuan,5,52,33,stunting
+2,Perempuan,5,55,33,tidak stunting
+2,Perempuan,4,53,31,stunting
+2,Perempuan,6,61,32,stunting
+2,Perempuan,6,53,32,stunting
+2,Perempuan,5,55,35,tidak stunting
+2,Perempuan,5,61,31,stunting
+2,Perempuan,4,58,35,tidak stunting
+2,Perempuan,3,61,31,stunting
+2,Perempuan,4,60,34,tidak stunting
+2,Perempuan,6,60,34,tidak stunting
+2,Perempuan,5,55,36,tidak stunting
+2,Perempuan,4,60,34,tidak stunting
+2,Perempuan,4,58,35,tidak stunting
+2,Perempuan,6,55,31,stunting
+2,Perempuan,5,56,36,tidak stunting
+2,Perempuan,6,54,34,tidak stunting
+2,Perempuan,5,61,34,tidak stunting
+2,Perempuan,3,57,36,stunting
+2,Perempuan,6,54,34,tidak stunting
+2,Perempuan,4,52,33,stunting
+2,Perempuan,4,58,34,tidak stunting
+2,Perempuan,5,57,36,tidak stunting
+2,Perempuan,5,54,33,tidak stunting
+2,Perempuan,6,61,34,tidak stunting
+2,Perempuan,6,52,34,stunting
+2,Perempuan,6,54,35,tidak stunting
+2,Perempuan,3,52,36,stunting
+2,Perempuan,5,52,34,stunting
+2,Perempuan,5,54,31,stunting
+2,Perempuan,5,52,35,stunting
+2,Perempuan,3,60,36,stunting
+2,Perempuan,3,57,32,stunting
+2,Perempuan,6,58,32,stunting
+2,Perempuan,5,58,32,stunting
+2,Perempuan,3,57,33,stunting
+2,Perempuan,6,57,35,tidak stunting
+2,Perempuan,6,54,34,tidak stunting
+2,Perempuan,4,58,31,stunting
+2,Perempuan,3,58,32,stunting
+2,Perempuan,3,60,33,stunting
+2,Perempuan,5,52,35,stunting
+2,Perempuan,6,59,36,tidak stunting
+2,Perempuan,3,57,31,stunting
+2,Perempuan,5,60,33,tidak stunting
+2,Perempuan,3,54,34,stunting
+2,Perempuan,6,52,32,stunting
+2,Perempuan,3,59,34,stunting
+2,Perempuan,6,59,35,tidak stunting
+3,Laki Laki,5,62,31,stunting
+3,Laki Laki,8,61,32,stunting
+3,Laki Laki,7,58,32,stunting
+3,Laki Laki,4,57,34,stunting
+3,Laki Laki,4,62,32,stunting
+3,Laki Laki,5,61,33,tidak stunting
+3,Laki Laki,7,61,31,stunting
+3,Laki Laki,8,62,36,tidak stunting
+3,Laki Laki,7,59,35,tidak stunting
+3,Laki Laki,6,64,36,tidak stunting
+3,Laki Laki,8,64,31,stunting
+3,Laki Laki,7,60,36,tidak stunting
+3,Laki Laki,5,64,32,stunting
+3,Laki Laki,6,60,31,stunting
+3,Laki Laki,5,57,34,stunting
+3,Laki Laki,6,60,35,tidak stunting
+3,Laki Laki,5,58,35,tidak stunting
+3,Laki Laki,8,64,32,stunting
+3,Laki Laki,5,65,36,tidak stunting
+3,Laki Laki,7,58,33,tidak stunting
+3,Laki Laki,5,59,31,stunting
+3,Laki Laki,7,65,32,stunting
+3,Laki Laki,7,58,33,tidak stunting
+3,Laki Laki,8,65,32,stunting
+3,Laki Laki,7,60,34,tidak stunting
+3,Laki Laki,5,64,36,tidak stunting
+3,Laki Laki,6,64,34,tidak stunting
+3,Laki Laki,8,64,34,tidak stunting
+3,Laki Laki,7,64,32,stunting
+3,Laki Laki,6,62,34,tidak stunting
+3,Laki Laki,7,57,33,stunting
+3,Laki Laki,7,58,32,stunting
+3,Laki Laki,6,58,34,tidak stunting
+3,Laki Laki,6,58,35,tidak stunting
+3,Laki Laki,8,61,33,tidak stunting
+3,Laki Laki,7,58,33,tidak stunting
+3,Laki Laki,8,64,36,tidak stunting
+3,Laki Laki,8,64,32,stunting
+3,Laki Laki,4,62,36,stunting
+3,Laki Laki,5,59,34,tidak stunting
+3,Laki Laki,5,60,35,tidak stunting
+3,Laki Laki,4,57,31,stunting
+3,Laki Laki,4,64,32,stunting
+3,Laki Laki,7,59,32,stunting
+3,Laki Laki,8,63,36,tidak stunting
+3,Laki Laki,7,58,33,tidak stunting
+3,Laki Laki,6,58,36,tidak stunting
+3,Laki Laki,6,61,36,tidak stunting
+3,Laki Laki,5,60,36,tidak stunting
+3,Laki Laki,6,58,33,tidak stunting
+3,Perempuan,5,57,33,tidak stunting
+3,Perempuan,4,58,34,stunting
+3,Perempuan,5,61,32,stunting
+3,Perempuan,6,63,36,tidak stunting
+3,Perempuan,4,54,36,stunting
+3,Perempuan,6,63,36,tidak stunting
+3,Perempuan,6,62,34,tidak stunting
+3,Perempuan,4,63,36,stunting
+3,Perempuan,6,64,35,tidak stunting
+3,Perempuan,4,58,35,stunting
+3,Perempuan,5,62,34,tidak stunting
+3,Perempuan,5,62,34,tidak stunting
+3,Perempuan,5,54,33,stunting
+3,Perempuan,6,53,32,stunting
+3,Perempuan,4,62,35,stunting
+3,Perempuan,5,56,35,tidak stunting
+3,Perempuan,4,61,35,stunting
+3,Perempuan,5,57,35,tidak stunting
+3,Perempuan,5,63,32,stunting
+3,Perempuan,4,60,32,stunting
+3,Perempuan,5,59,31,stunting
+3,Perempuan,6,56,31,stunting
+3,Perempuan,6,60,34,tidak stunting
+3,Perempuan,4,56,31,stunting
+3,Perempuan,4,55,31,stunting
+3,Perempuan,4,57,32,stunting
+3,Perempuan,4,55,36,stunting
+3,Perempuan,6,56,31,stunting
+3,Perempuan,4,62,32,stunting
+3,Perempuan,4,58,34,stunting
+3,Perempuan,7,59,33,tidak stunting
+3,Perempuan,7,57,35,tidak stunting
+3,Perempuan,5,60,32,stunting
+3,Perempuan,7,57,32,stunting
+3,Perempuan,4,56,31,stunting
+3,Perempuan,4,63,36,stunting
+3,Perempuan,7,60,34,tidak stunting
+3,Perempuan,5,54,36,stunting
+3,Perempuan,4,55,33,stunting
+3,Perempuan,5,59,35,tidak stunting
+3,Perempuan,4,58,33,stunting
+3,Perempuan,4,64,33,stunting
+3,Perempuan,7,57,34,tidak stunting
+3,Perempuan,5,61,31,stunting
+3,Perempuan,4,64,34,stunting
+3,Perempuan,6,56,34,tidak stunting
+3,Perempuan,7,55,34,stunting
+3,Perempuan,4,63,34,stunting
+3,Perempuan,4,53,32,stunting
+3,Perempuan,6,53,34,stunting
+4,Laki Laki,6,62,33,tidak stunting
+4,Laki Laki,6,60,35,tidak stunting
+4,Laki Laki,6,61,34,tidak stunting
+4,Laki Laki,7,67,36,tidak stunting
+4,Laki Laki,7,60,35,tidak stunting
+4,Laki Laki,6,58,34,stunting
+4,Laki Laki,6,61,34,tidak stunting
+4,Laki Laki,7,60,34,tidak stunting
+4,Laki Laki,8,60,33,tidak stunting
+4,Laki Laki,7,67,33,tidak stunting
+4,Laki Laki,6,67,36,tidak stunting
+4,Laki Laki,6,67,35,tidak stunting
+4,Laki Laki,8,68,34,tidak stunting
+4,Laki Laki,5,63,36,stunting
+4,Laki Laki,8,65,35,tidak stunting
+4,Laki Laki,5,65,31,stunting
+4,Laki Laki,8,63,32,stunting
+4,Laki Laki,5,62,34,stunting
+4,Laki Laki,6,68,31,stunting
+4,Laki Laki,5,59,35,stunting
+4,Laki Laki,6,59,32,stunting
+4,Laki Laki,6,64,34,tidak stunting
+4,Laki Laki,7,61,35,tidak stunting
+4,Laki Laki,5,58,36,stunting
+4,Laki Laki,8,60,33,tidak stunting
+4,Laki Laki,7,58,32,stunting
+4,Laki Laki,6,67,35,tidak stunting
+4,Laki Laki,7,66,34,tidak stunting
+4,Laki Laki,7,66,31,stunting
+4,Laki Laki,6,60,32,stunting
+4,Laki Laki,7,66,36,tidak stunting
+4,Laki Laki,8,63,34,tidak stunting
+4,Laki Laki,7,65,35,tidak stunting
+4,Laki Laki,7,58,31,stunting
+4,Laki Laki,7,58,31,stunting
+4,Laki Laki,8,60,32,stunting
+4,Laki Laki,6,64,35,tidak stunting
+4,Laki Laki,7,65,36,tidak stunting
+4,Laki Laki,6,61,32,stunting
+4,Laki Laki,8,68,36,tidak stunting
+4,Laki Laki,5,64,31,stunting
+4,Laki Laki,5,58,35,stunting
+4,Laki Laki,5,63,31,stunting
+4,Laki Laki,6,60,32,stunting
+4,Laki Laki,5,61,33,stunting
+4,Laki Laki,6,68,35,tidak stunting
+4,Laki Laki,6,65,31,stunting
+4,Laki Laki,8,62,31,stunting
+4,Laki Laki,6,61,34,tidak stunting
+4,Laki Laki,6,66,34,tidak stunting
+4,Perempuan,8,61,33,tidak stunting
+4,Perempuan,6,57,34,stunting
+4,Perempuan,6,59,34,tidak stunting
+4,Perempuan,8,55,36,stunting
+4,Perempuan,7,57,36,stunting
+4,Perempuan,6,66,35,tidak stunting
+4,Perempuan,6,59,33,tidak stunting
+4,Perempuan,7,58,32,stunting
+4,Perempuan,5,57,34,stunting
+4,Perempuan,8,59,34,tidak stunting
+4,Perempuan,7,66,33,tidak stunting
+4,Perempuan,8,61,35,tidak stunting
+4,Perempuan,8,61,32,stunting
+4,Perempuan,6,64,31,stunting
+4,Perempuan,8,60,33,tidak stunting
+4,Perempuan,7,66,34,tidak stunting
+4,Perempuan,5,59,31,stunting
+4,Perempuan,7,64,35,tidak stunting
+4,Perempuan,6,66,32,stunting
+4,Perempuan,6,59,34,tidak stunting
+4,Perempuan,8,63,31,stunting
+4,Perempuan,8,66,31,stunting
+4,Perempuan,7,66,36,tidak stunting
+4,Perempuan,8,61,35,tidak stunting
+4,Perempuan,6,64,35,tidak stunting
+4,Perempuan,8,58,33,tidak stunting
+4,Perempuan,6,58,34,tidak stunting
+4,Perempuan,5,63,32,stunting
+4,Perempuan,7,66,34,tidak stunting
+4,Perempuan,5,60,32,stunting
+4,Perempuan,6,60,35,tidak stunting
+4,Perempuan,7,63,35,tidak stunting
+4,Perempuan,6,59,34,tidak stunting
+4,Perempuan,5,66,34,tidak stunting
+4,Perempuan,8,66,35,tidak stunting
+4,Perempuan,8,61,33,tidak stunting
+4,Perempuan,8,56,36,stunting
+4,Perempuan,7,61,32,stunting
+4,Perempuan,5,59,35,tidak stunting
+4,Perempuan,8,59,34,tidak stunting
+4,Perempuan,7,58,34,tidak stunting
+4,Perempuan,6,63,31,stunting
+4,Perempuan,7,55,36,stunting
+4,Perempuan,5,56,33,stunting
+4,Perempuan,5,60,32,stunting
+4,Perempuan,6,66,31,stunting
+4,Perempuan,5,64,31,stunting
+4,Perempuan,5,61,34,tidak stunting
+4,Perempuan,5,56,31,stunting
+4,Perempuan,8,63,35,tidak stunting
+5,Laki Laki,5,66,33,stunting
+5,Laki Laki,6,62,33,tidak stunting
+5,Laki Laki,5,70,32,stunting
+5,Laki Laki,5,65,34,stunting
+5,Laki Laki,7,68,32,stunting
+5,Laki Laki,6,62,33,tidak stunting
+5,Laki Laki,5,60,33,stunting
+5,Laki Laki,6,68,33,tidak stunting
+5,Laki Laki,6,66,35,tidak stunting
+5,Laki Laki,5,62,36,stunting
+5,Laki Laki,5,62,35,stunting
+5,Laki Laki,6,61,32,stunting
+5,Laki Laki,8,65,34,tidak stunting
+5,Laki Laki,8,61,35,stunting
+5,Laki Laki,5,64,32,stunting
+5,Laki Laki,9,60,35,stunting
+5,Laki Laki,8,68,32,stunting
+5,Laki Laki,8,69,36,tidak stunting
+5,Laki Laki,9,70,36,tidak stunting
+5,Laki Laki,6,62,33,tidak stunting
+5,Laki Laki,8,66,35,tidak stunting
+5,Laki Laki,6,64,36,tidak stunting
+5,Laki Laki,5,69,35,stunting
+5,Laki Laki,5,68,34,stunting
+5,Laki Laki,8,68,34,tidak stunting
+5,Laki Laki,7,67,36,tidak stunting
+5,Laki Laki,6,62,36,tidak stunting
+5,Laki Laki,9,68,33,tidak stunting
+5,Laki Laki,6,65,34,tidak stunting
+5,Laki Laki,8,68,36,tidak stunting
+5,Laki Laki,5,62,36,stunting
+5,Laki Laki,5,62,35,stunting
+5,Laki Laki,9,60,34,stunting
+5,Laki Laki,8,65,35,tidak stunting
+5,Laki Laki,9,60,33,stunting
+5,Laki Laki,9,70,33,tidak stunting
+5,Laki Laki,8,61,36,stunting
+5,Laki Laki,9,67,34,tidak stunting
+5,Laki Laki,6,68,36,tidak stunting
+5,Laki Laki,5,60,35,stunting
+5,Laki Laki,7,62,32,stunting
+5,Laki Laki,9,60,35,stunting
+5,Laki Laki,5,70,35,stunting
+5,Laki Laki,6,62,35,tidak stunting
+5,Laki Laki,6,66,35,tidak stunting
+5,Laki Laki,9,69,35,tidak stunting
+5,Laki Laki,9,68,35,tidak stunting
+5,Laki Laki,7,60,36,stunting
+5,Laki Laki,6,70,36,tidak stunting
+5,Laki Laki,7,67,34,tidak stunting
+5,Perempuan,6,63,33,tidak stunting
+5,Perempuan,5,66,33,stunting
+5,Perempuan,8,65,35,tidak stunting
+5,Perempuan,7,61,34,tidak stunting
+5,Perempuan,6,59,33,stunting
+5,Perempuan,6,62,32,stunting
+5,Perempuan,5,67,33,stunting
+5,Perempuan,6,59,34,stunting
+5,Perempuan,6,68,36,tidak stunting
+5,Perempuan,7,63,33,tidak stunting
+5,Perempuan,6,68,32,stunting
+5,Perempuan,6,62,35,tidak stunting
+5,Perempuan,5,59,34,stunting
+5,Perempuan,7,59,36,stunting
+5,Perempuan,8,63,35,tidak stunting
+5,Perempuan,7,63,32,stunting
+5,Perempuan,7,64,34,tidak stunting
+5,Perempuan,5,61,32,stunting
+5,Perempuan,7,64,36,tidak stunting
+5,Perempuan,8,67,35,tidak stunting
+5,Perempuan,6,59,32,stunting
+5,Perempuan,8,61,34,tidak stunting
+5,Perempuan,6,68,34,tidak stunting
+5,Perempuan,7,68,35,tidak stunting
+5,Perempuan,6,68,36,tidak stunting
+5,Perempuan,6,63,36,tidak stunting
+5,Perempuan,7,60,34,tidak stunting
+5,Perempuan,7,64,35,tidak stunting
+5,Perempuan,6,63,33,tidak stunting
+5,Perempuan,6,64,35,tidak stunting
+5,Perempuan,5,67,32,stunting
+5,Perempuan,5,62,34,stunting
+5,Perempuan,5,63,36,stunting
+5,Perempuan,8,64,33,tidak stunting
+5,Perempuan,6,60,35,tidak stunting
+5,Perempuan,5,65,34,stunting
+5,Perempuan,8,64,35,tidak stunting
+5,Perempuan,8,62,32,stunting
+5,Perempuan,5,60,35,stunting
+5,Perempuan,5,65,36,stunting
+5,Perempuan,8,64,36,tidak stunting
+5,Perempuan,5,60,33,stunting
+5,Perempuan,5,66,33,stunting
+5,Perempuan,7,61,34,tidak stunting
+5,Perempuan,7,61,32,stunting
+5,Perempuan,7,60,34,tidak stunting
+5,Perempuan,7,59,35,stunting
+5,Perempuan,5,68,34,stunting
+5,Perempuan,8,67,36,tidak stunting
+5,Perempuan,5,62,35,stunting
+6,Laki Laki,8,70,32,stunting
+6,Laki Laki,9,69,37,tidak stunting
+6,Laki Laki,9,66,37,tidak stunting
+6,Laki Laki,9,71,34,tidak stunting
+6,Laki Laki,6,63,36,stunting
+6,Laki Laki,6,69,33,stunting
+6,Laki Laki,8,67,34,tidak stunting
+6,Laki Laki,7,64,37,tidak stunting
+6,Laki Laki,8,71,36,tidak stunting
+6,Laki Laki,6,63,35,stunting
+6,Laki Laki,9,71,33,stunting
+6,Laki Laki,8,65,34,tidak stunting
+6,Laki Laki,6,64,37,stunting
+6,Laki Laki,7,64,35,tidak stunting
+6,Laki Laki,9,67,37,tidak stunting
+6,Laki Laki,7,66,37,tidak stunting
+6,Laki Laki,8,63,35,stunting
+6,Laki Laki,6,67,32,stunting
+6,Laki Laki,6,71,35,stunting
+6,Laki Laki,9,67,35,tidak stunting
+6,Laki Laki,9,65,32,stunting
+6,Laki Laki,6,67,37,stunting
+6,Laki Laki,9,65,32,stunting
+6,Laki Laki,9,65,33,stunting
+6,Laki Laki,6,63,33,stunting
+6,Laki Laki,7,66,36,tidak stunting
+6,Laki Laki,8,64,34,tidak stunting
+6,Laki Laki,9,63,33,stunting
+6,Laki Laki,9,67,34,tidak stunting
+6,Laki Laki,8,66,32,stunting
+6,Laki Laki,7,67,32,stunting
+6,Laki Laki,6,68,37,stunting
+6,Laki Laki,9,63,36,stunting
+6,Laki Laki,8,70,36,tidak stunting
+6,Laki Laki,6,66,36,stunting
+6,Laki Laki,8,67,37,tidak stunting
+6,Laki Laki,8,63,33,stunting
+6,Laki Laki,6,69,33,stunting
+6,Laki Laki,9,66,37,tidak stunting
+6,Laki Laki,8,71,33,stunting
+6,Laki Laki,7,71,32,stunting
+6,Laki Laki,9,71,33,stunting
+6,Laki Laki,6,64,35,stunting
+6,Laki Laki,9,66,34,tidak stunting
+6,Laki Laki,9,71,34,tidak stunting
+6,Laki Laki,7,64,36,tidak stunting
+6,Laki Laki,7,70,33,stunting
+6,Laki Laki,8,66,33,stunting
+6,Laki Laki,9,69,32,stunting
+6,Laki Laki,8,65,34,tidak stunting
+6,Perempuan,6,70,34,tidak stunting
+6,Perempuan,5,68,36,stunting
+6,Perempuan,5,69,36,stunting
+6,Perempuan,8,64,36,tidak stunting
+6,Perempuan,9,60,34,stunting
+6,Perempuan,8,64,35,tidak stunting
+6,Perempuan,6,67,34,tidak stunting
+6,Perempuan,9,60,35,stunting
+6,Perempuan,6,61,36,stunting
+6,Perempuan,7,64,34,tidak stunting
+6,Perempuan,7,64,34,tidak stunting
+6,Perempuan,7,64,36,tidak stunting
+6,Perempuan,5,67,34,stunting
+6,Perempuan,5,63,34,stunting
+6,Perempuan,6,61,36,stunting
+6,Perempuan,5,63,34,stunting
+6,Perempuan,8,68,36,tidak stunting
+6,Perempuan,9,61,34,stunting
+6,Perempuan,7,63,34,tidak stunting
+6,Perempuan,8,67,34,tidak stunting
+6,Perempuan,6,68,35,tidak stunting
+6,Perempuan,5,62,34,stunting
+6,Perempuan,8,68,36,tidak stunting
+6,Perempuan,5,70,36,stunting
+6,Perempuan,7,63,35,tidak stunting
+6,Perempuan,5,66,36,stunting
+6,Perempuan,7,61,36,stunting
+6,Perempuan,6,70,34,tidak stunting
+6,Perempuan,8,60,35,stunting
+6,Perempuan,8,69,36,tidak stunting
+6,Perempuan,6,61,34,stunting
+6,Perempuan,7,66,35,tidak stunting
+6,Perempuan,5,66,35,stunting
+6,Perempuan,9,68,35,tidak stunting
+6,Perempuan,9,64,36,tidak stunting
+6,Perempuan,7,63,34,tidak stunting
+6,Perempuan,7,67,34,tidak stunting
+6,Perempuan,6,69,34,tidak stunting
+6,Perempuan,6,62,34,tidak stunting
+6,Perempuan,9,63,34,tidak stunting
+6,Perempuan,5,63,34,stunting
+6,Perempuan,5,64,35,stunting
+6,Perempuan,9,60,36,stunting
+6,Perempuan,5,63,36,stunting
+6,Perempuan,9,69,34,tidak stunting
+6,Perempuan,8,69,36,tidak stunting
+6,Perempuan,7,68,34,tidak stunting
+6,Perempuan,8,66,36,tidak stunting
+6,Perempuan,7,65,35,tidak stunting
+6,Perempuan,8,64,34,tidak stunting
+7,Laki Laki,9,69,36,tidak stunting
+7,Laki Laki,5,67,37,stunting
+7,Laki Laki,10,64,36,stunting
+7,Laki Laki,5,66,36,stunting
+7,Laki Laki,8,73,37,tidak stunting
+7,Laki Laki,8,71,35,tidak stunting
+7,Laki Laki,9,64,37,stunting
+7,Laki Laki,8,65,36,tidak stunting
+7,Laki Laki,6,73,36,stunting
+7,Laki Laki,5,70,36,stunting
+7,Laki Laki,5,72,35,stunting
+7,Laki Laki,9,66,36,tidak stunting
+7,Laki Laki,10,71,35,tidak stunting
+7,Laki Laki,8,69,36,tidak stunting
+7,Laki Laki,9,64,37,stunting
+7,Laki Laki,6,72,36,stunting
+7,Laki Laki,5,70,35,stunting
+7,Laki Laki,8,64,36,stunting
+7,Laki Laki,5,66,35,stunting
+7,Laki Laki,10,64,35,stunting
+7,Laki Laki,8,69,37,tidak stunting
+7,Laki Laki,10,70,35,tidak stunting
+7,Laki Laki,10,70,36,tidak stunting
+7,Laki Laki,7,68,35,tidak stunting
+7,Laki Laki,7,66,35,tidak stunting
+7,Laki Laki,5,71,37,stunting
+7,Laki Laki,9,65,37,tidak stunting
+7,Laki Laki,7,67,35,tidak stunting
+7,Laki Laki,5,71,36,stunting
+7,Laki Laki,5,69,36,stunting
+7,Laki Laki,7,70,36,tidak stunting
+7,Laki Laki,8,73,35,tidak stunting
+7,Laki Laki,6,66,35,stunting
+7,Laki Laki,10,71,36,tidak stunting
+7,Laki Laki,7,66,37,tidak stunting
+7,Laki Laki,5,72,35,stunting
+7,Laki Laki,7,65,35,tidak stunting
+7,Laki Laki,10,69,37,tidak stunting
+7,Laki Laki,10,67,36,tidak stunting
+7,Laki Laki,6,73,35,stunting
+7,Laki Laki,8,68,37,tidak stunting
+7,Laki Laki,9,65,37,tidak stunting
+7,Laki Laki,5,72,37,stunting
+7,Laki Laki,7,67,35,tidak stunting
+7,Laki Laki,5,73,35,stunting
+7,Laki Laki,6,69,36,stunting
+7,Laki Laki,7,72,37,tidak stunting
+7,Laki Laki,8,67,36,tidak stunting
+7,Laki Laki,5,70,36,stunting
+7,Laki Laki,8,73,37,tidak stunting
+7,Perempuan,9,68,33,tidak stunting
+7,Perempuan,6,67,32,stunting
+7,Perempuan,6,71,36,tidak stunting
+7,Perempuan,9,67,34,tidak stunting
+7,Perempuan,9,71,33,tidak stunting
+7,Perempuan,9,69,36,tidak stunting
+7,Perempuan,9,67,33,tidak stunting
+7,Perempuan,6,64,34,tidak stunting
+7,Perempuan,9,63,35,tidak stunting
+7,Perempuan,5,67,34,stunting
+7,Perempuan,9,71,34,tidak stunting
+7,Perempuan,7,68,35,tidak stunting
+7,Perempuan,7,63,33,tidak stunting
+7,Perempuan,5,66,33,stunting
+7,Perempuan,9,63,36,tidak stunting
+7,Perempuan,9,68,36,tidak stunting
+7,Perempuan,8,71,32,stunting
+7,Perempuan,8,65,33,tidak stunting
+7,Perempuan,7,62,36,stunting
+7,Perempuan,5,71,34,stunting
+7,Perempuan,7,69,33,tidak stunting
+7,Perempuan,9,71,34,tidak stunting
+7,Perempuan,6,63,33,tidak stunting
+7,Perempuan,7,62,36,stunting
+7,Perempuan,5,69,35,stunting
+7,Perempuan,5,65,32,stunting
+7,Perempuan,9,65,32,stunting
+7,Perempuan,6,71,35,tidak stunting
+7,Perempuan,8,66,36,tidak stunting
+7,Perempuan,5,67,35,stunting
+7,Perempuan,7,63,34,tidak stunting
+7,Perempuan,5,71,33,stunting
+7,Perempuan,6,68,36,tidak stunting
+7,Perempuan,5,67,34,stunting
+7,Perempuan,9,71,34,tidak stunting
+7,Perempuan,6,67,32,stunting
+7,Perempuan,9,69,32,stunting
+7,Perempuan,9,63,33,tidak stunting
+7,Perempuan,8,67,32,stunting
+7,Perempuan,5,69,32,stunting
+7,Perempuan,6,63,36,tidak stunting
+7,Perempuan,9,70,35,tidak stunting
+7,Perempuan,5,66,32,stunting
+7,Perempuan,6,69,32,stunting
+7,Perempuan,7,71,34,tidak stunting
+7,Perempuan,7,69,35,tidak stunting
+7,Perempuan,7,67,36,tidak stunting
+7,Perempuan,5,68,36,stunting
+7,Perempuan,8,65,36,tidak stunting
+7,Perempuan,8,69,34,tidak stunting
+8,Laki Laki,6,67,33,stunting
+8,Laki Laki,7,75,37,tidak stunting
+8,Laki Laki,8,69,36,tidak stunting
+8,Laki Laki,7,75,35,tidak stunting
+8,Laki Laki,10,71,32,stunting
+8,Laki Laki,8,66,36,stunting
+8,Laki Laki,6,67,35,stunting
+8,Laki Laki,10,70,34,tidak stunting
+8,Laki Laki,7,70,37,tidak stunting
+8,Laki Laki,8,68,32,stunting
+8,Laki Laki,6,71,35,stunting
+8,Laki Laki,10,74,37,tidak stunting
+8,Laki Laki,10,74,34,tidak stunting
+8,Laki Laki,9,72,34,tidak stunting
+8,Laki Laki,7,69,33,stunting
+8,Laki Laki,7,69,33,stunting
+8,Laki Laki,6,73,34,stunting
+8,Laki Laki,8,65,35,stunting
+8,Laki Laki,8,70,35,tidak stunting
+8,Laki Laki,8,67,32,stunting
+8,Laki Laki,8,75,32,stunting
+8,Laki Laki,9,71,37,tidak stunting
+8,Laki Laki,9,66,33,stunting
+8,Laki Laki,10,75,36,tidak stunting
+8,Laki Laki,7,70,34,tidak stunting
+8,Laki Laki,8,68,32,stunting
+8,Laki Laki,9,69,33,stunting
+8,Laki Laki,7,68,36,tidak stunting
+8,Laki Laki,10,69,33,stunting
+8,Laki Laki,8,68,33,stunting
+8,Laki Laki,8,67,37,tidak stunting
+8,Laki Laki,9,73,33,stunting
+8,Laki Laki,10,66,33,stunting
+8,Laki Laki,6,74,35,stunting
+8,Laki Laki,8,68,32,stunting
+8,Laki Laki,8,70,32,stunting
+8,Laki Laki,7,67,37,tidak stunting
+8,Laki Laki,8,71,33,stunting
+8,Laki Laki,8,66,36,stunting
+8,Laki Laki,6,65,37,stunting
+8,Laki Laki,7,75,34,tidak stunting
+8,Laki Laki,8,71,33,stunting
+8,Laki Laki,6,75,37,stunting
+8,Laki Laki,6,67,33,stunting
+8,Laki Laki,6,67,36,stunting
+8,Laki Laki,7,70,35,tidak stunting
+8,Laki Laki,8,75,37,tidak stunting
+8,Laki Laki,7,66,32,stunting
+8,Laki Laki,8,65,34,stunting
+8,Laki Laki,9,73,37,tidak stunting
+8,Perempuan,8,68,36,tidak stunting
+8,Perempuan,10,69,34,tidak stunting
+8,Perempuan,6,66,34,stunting
+8,Perempuan,6,70,36,stunting
+8,Perempuan,10,64,32,stunting
+8,Perempuan,8,73,33,tidak stunting
+8,Perempuan,8,69,34,tidak stunting
+8,Perempuan,6,72,36,stunting
+8,Perempuan,9,68,36,tidak stunting
+8,Perempuan,10,71,34,tidak stunting
+8,Perempuan,9,64,34,tidak stunting
+8,Perempuan,9,69,32,stunting
+8,Perempuan,9,69,36,tidak stunting
+8,Perempuan,7,71,35,tidak stunting
+8,Perempuan,10,69,34,tidak stunting
+8,Perempuan,9,70,35,tidak stunting
+8,Perempuan,10,66,33,tidak stunting
+8,Perempuan,7,66,36,tidak stunting
+8,Perempuan,10,69,33,tidak stunting
+8,Perempuan,6,66,36,stunting
+8,Perempuan,9,68,33,tidak stunting
+8,Perempuan,7,68,36,tidak stunting
+8,Perempuan,10,65,35,tidak stunting
+8,Perempuan,6,63,32,stunting
+8,Perempuan,8,68,34,tidak stunting
+8,Perempuan,9,67,35,tidak stunting
+8,Perempuan,8,72,34,tidak stunting
+8,Perempuan,9,67,35,tidak stunting
+8,Perempuan,10,73,35,tidak stunting
+8,Perempuan,6,68,35,stunting
+8,Perempuan,10,71,33,tidak stunting
+8,Perempuan,10,67,32,stunting
+8,Perempuan,10,73,34,tidak stunting
+8,Perempuan,6,65,32,stunting
+8,Perempuan,6,69,34,stunting
+8,Perempuan,8,73,36,tidak stunting
+8,Perempuan,10,68,36,tidak stunting
+8,Perempuan,7,64,36,tidak stunting
+8,Perempuan,9,70,32,stunting
+8,Perempuan,7,66,32,stunting
+8,Perempuan,8,69,32,stunting
+8,Perempuan,9,64,33,tidak stunting
+8,Perempuan,9,66,34,tidak stunting
+8,Perempuan,9,65,36,tidak stunting
+8,Perempuan,6,64,36,stunting
+8,Perempuan,8,67,35,tidak stunting
+8,Perempuan,9,64,33,tidak stunting
+8,Perempuan,9,70,33,tidak stunting
+8,Perempuan,9,67,34,tidak stunting
+8,Perempuan,7,70,34,tidak stunting
+9,Laki Laki,8,76,34,tidak stunting
+9,Laki Laki,7,72,32,stunting
+9,Laki Laki,10,73,35,tidak stunting
+9,Laki Laki,10,74,37,tidak stunting
+9,Laki Laki,11,70,32,stunting
+9,Laki Laki,9,72,34,tidak stunting
+9,Laki Laki,8,72,36,tidak stunting
+9,Laki Laki,11,72,37,tidak stunting
+9,Laki Laki,6,67,34,stunting
+9,Laki Laki,10,75,33,stunting
+9,Laki Laki,10,75,32,stunting
+9,Laki Laki,11,76,32,stunting
+9,Laki Laki,10,75,32,stunting
+9,Laki Laki,9,71,33,stunting
+9,Laki Laki,7,75,35,stunting
+9,Laki Laki,9,74,36,tidak stunting
+9,Laki Laki,8,69,33,stunting
+9,Laki Laki,10,67,37,stunting
+9,Laki Laki,8,75,37,tidak stunting
+9,Laki Laki,10,76,32,stunting
+9,Laki Laki,8,67,33,stunting
+9,Laki Laki,8,69,34,tidak stunting
+9,Laki Laki,6,67,35,stunting
+9,Laki Laki,7,70,37,stunting
+9,Laki Laki,9,71,33,stunting
+9,Laki Laki,6,69,35,stunting
+9,Laki Laki,10,75,34,tidak stunting
+9,Laki Laki,11,71,36,tidak stunting
+9,Laki Laki,6,69,36,stunting
+9,Laki Laki,7,72,37,stunting
+9,Laki Laki,10,70,34,tidak stunting
+9,Laki Laki,10,69,37,tidak stunting
+9,Laki Laki,7,71,32,stunting
+9,Laki Laki,7,70,36,stunting
+9,Laki Laki,11,75,36,tidak stunting
+9,Laki Laki,8,71,37,tidak stunting
+9,Laki Laki,8,75,32,stunting
+9,Laki Laki,7,72,34,stunting
+9,Laki Laki,10,74,32,stunting
+9,Laki Laki,6,76,37,stunting
+9,Laki Laki,11,68,35,tidak stunting
+9,Laki Laki,11,72,32,stunting
+9,Laki Laki,10,69,37,tidak stunting
+9,Laki Laki,7,67,35,stunting
+9,Laki Laki,7,70,36,stunting
+9,Laki Laki,10,71,37,tidak stunting
+9,Laki Laki,10,69,33,stunting
+9,Laki Laki,9,68,36,tidak stunting
+9,Laki Laki,9,68,34,tidak stunting
+9,Laki Laki,11,69,34,tidak stunting
+9,Perempuan,6,65,33,stunting
+9,Perempuan,10,69,36,tidak stunting
+9,Perempuan,8,67,33,tidak stunting
+9,Perempuan,8,66,34,tidak stunting
+9,Perempuan,6,74,32,stunting
+9,Perempuan,10,75,35,tidak stunting
+9,Perempuan,10,66,32,stunting
+9,Perempuan,6,71,34,stunting
+9,Perempuan,6,64,33,stunting
+9,Perempuan,10,66,33,tidak stunting
+9,Perempuan,6,64,36,stunting
+9,Perempuan,6,75,34,stunting
+9,Perempuan,7,74,35,tidak stunting
+9,Perempuan,10,72,34,tidak stunting
+9,Perempuan,10,69,36,tidak stunting
+9,Perempuan,9,73,34,tidak stunting
+9,Perempuan,6,67,33,stunting
+9,Perempuan,10,66,35,tidak stunting
+9,Perempuan,7,75,36,tidak stunting
+9,Perempuan,9,75,35,tidak stunting
+9,Perempuan,6,67,36,stunting
+9,Perempuan,7,65,33,stunting
+9,Perempuan,9,68,33,tidak stunting
+9,Perempuan,7,71,36,tidak stunting
+9,Perempuan,9,65,35,stunting
+9,Perempuan,7,71,32,stunting
+9,Perempuan,7,70,33,tidak stunting
+9,Perempuan,8,71,32,stunting
+9,Perempuan,6,65,36,stunting
+9,Perempuan,8,66,33,tidak stunting
+9,Perempuan,6,73,34,stunting
+9,Perempuan,6,73,33,stunting
+9,Perempuan,9,75,32,stunting
+9,Perempuan,9,68,34,tidak stunting
+9,Perempuan,6,73,35,stunting
+9,Perempuan,10,74,32,stunting
+9,Perempuan,6,65,36,stunting
+9,Perempuan,10,66,36,tidak stunting
+9,Perempuan,10,69,32,stunting
+9,Perempuan,6,75,32,stunting
+9,Perempuan,9,72,34,tidak stunting
+9,Perempuan,6,71,35,stunting
+9,Perempuan,9,66,34,tidak stunting
+9,Perempuan,9,72,35,tidak stunting
+9,Perempuan,6,66,36,stunting
+9,Perempuan,7,72,34,tidak stunting
+9,Perempuan,7,65,35,stunting
+9,Perempuan,10,70,32,stunting
+9,Perempuan,7,66,36,tidak stunting
+9,Perempuan,9,68,33,tidak stunting
+10,Laki Laki,11,68,34,stunting
+10,Laki Laki,9,69,35,tidak stunting
+10,Laki Laki,7,69,32,stunting
+10,Laki Laki,10,70,37,tidak stunting
+10,Laki Laki,11,67,32,stunting
+10,Laki Laki,8,69,37,tidak stunting
+10,Laki Laki,10,69,34,tidak stunting
+10,Laki Laki,7,68,34,stunting
+10,Laki Laki,8,72,37,tidak stunting
+10,Laki Laki,11,75,36,tidak stunting
+10,Laki Laki,8,73,36,tidak stunting
+10,Laki Laki,9,72,36,tidak stunting
+10,Laki Laki,7,72,36,stunting
+10,Laki Laki,7,77,34,stunting
+10,Laki Laki,11,69,34,tidak stunting
+10,Laki Laki,10,70,33,stunting
+10,Laki Laki,7,69,32,stunting
+10,Laki Laki,7,75,34,stunting
+10,Laki Laki,7,74,33,stunting
+10,Laki Laki,7,77,36,stunting
+10,Laki Laki,10,67,32,stunting
+10,Laki Laki,8,69,32,stunting
+10,Laki Laki,7,72,32,stunting
+10,Laki Laki,11,76,37,tidak stunting
+10,Laki Laki,10,75,34,tidak stunting
+10,Laki Laki,7,68,32,stunting
+10,Laki Laki,8,77,37,tidak stunting
+10,Laki Laki,8,77,33,stunting
+10,Laki Laki,8,73,34,tidak stunting
+10,Laki Laki,9,70,33,stunting
+10,Laki Laki,9,75,37,tidak stunting
+10,Laki Laki,7,68,37,stunting
+10,Laki Laki,7,73,36,stunting
+10,Laki Laki,11,70,32,stunting
+10,Laki Laki,8,75,33,stunting
+10,Laki Laki,10,73,34,tidak stunting
+10,Laki Laki,8,69,34,tidak stunting
+10,Laki Laki,9,70,35,tidak stunting
+10,Laki Laki,11,74,36,tidak stunting
+10,Laki Laki,10,72,35,tidak stunting
+10,Laki Laki,8,76,35,tidak stunting
+10,Laki Laki,9,72,33,stunting
+10,Laki Laki,7,74,32,stunting
+10,Laki Laki,10,74,36,tidak stunting
+10,Laki Laki,10,75,34,tidak stunting
+10,Laki Laki,10,75,35,tidak stunting
+10,Laki Laki,9,68,32,stunting
+10,Laki Laki,10,71,33,stunting
+10,Laki Laki,8,69,36,tidak stunting
+10,Laki Laki,7,74,34,stunting
+10,Perempuan,7,66,33,stunting
+10,Perempuan,6,67,36,stunting
+10,Perempuan,10,70,34,tidak stunting
+10,Perempuan,9,69,33,tidak stunting
+10,Perempuan,8,70,36,tidak stunting
+10,Perempuan,8,76,34,tidak stunting
+10,Perempuan,10,75,34,tidak stunting
+10,Perempuan,10,76,36,tidak stunting
+10,Perempuan,8,71,33,tidak stunting
+10,Perempuan,8,73,32,stunting
+10,Perempuan,10,75,32,stunting
+10,Perempuan,6,66,32,stunting
+10,Perempuan,10,67,32,stunting
+10,Perempuan,10,75,36,tidak stunting
+10,Perempuan,6,76,35,stunting
+10,Perempuan,10,72,33,tidak stunting
+10,Perempuan,7,73,32,stunting
+10,Perempuan,6,72,36,stunting
+10,Perempuan,7,68,32,stunting
+10,Perempuan,10,75,34,tidak stunting
+10,Perempuan,7,68,35,tidak stunting
+10,Perempuan,10,67,33,tidak stunting
+10,Perempuan,6,66,36,stunting
+10,Perempuan,10,65,33,stunting
+10,Perempuan,8,67,35,tidak stunting
+10,Perempuan,10,75,34,tidak stunting
+10,Perempuan,7,72,35,tidak stunting
+10,Perempuan,9,70,32,stunting
+10,Perempuan,7,67,35,tidak stunting
+10,Perempuan,6,70,34,stunting
+10,Perempuan,6,76,34,stunting
+10,Perempuan,8,69,35,tidak stunting
+10,Perempuan,9,75,36,tidak stunting
+10,Perempuan,8,65,34,stunting
+10,Perempuan,7,67,35,tidak stunting
+10,Perempuan,10,68,32,stunting
+10,Perempuan,10,75,34,tidak stunting
+10,Perempuan,10,68,34,tidak stunting
+10,Perempuan,9,71,32,stunting
+10,Perempuan,9,72,33,tidak stunting
+10,Perempuan,7,72,33,tidak stunting
+10,Perempuan,9,69,33,tidak stunting
+10,Perempuan,6,72,35,stunting
+10,Perempuan,10,76,36,tidak stunting
+10,Perempuan,8,76,36,tidak stunting
+10,Perempuan,9,71,34,tidak stunting
+10,Perempuan,8,66,36,stunting
+10,Perempuan,6,71,34,stunting
+10,Perempuan,9,72,34,tidak stunting
+10,Perempuan,7,66,36,stunting
+11,Laki Laki,10,74,36,tidak stunting
+11,Laki Laki,10,76,36,tidak stunting
+11,Laki Laki,9,70,32,stunting
+11,Laki Laki,7,77,35,stunting
+11,Laki Laki,11,78,37,tidak stunting
+11,Laki Laki,8,72,37,tidak stunting
+11,Laki Laki,10,70,37,tidak stunting
+11,Laki Laki,8,69,35,stunting
+11,Laki Laki,8,69,37,stunting
+11,Laki Laki,11,69,36,stunting
+11,Laki Laki,7,73,36,stunting
+11,Laki Laki,9,78,35,tidak stunting
+11,Laki Laki,7,72,37,stunting
+11,Laki Laki,8,75,37,tidak stunting
+11,Laki Laki,10,74,32,stunting
+11,Laki Laki,10,76,34,tidak stunting
+11,Laki Laki,7,71,33,stunting
+11,Laki Laki,7,76,33,stunting
+11,Laki Laki,8,70,32,stunting
+11,Laki Laki,11,73,33,stunting
+11,Laki Laki,9,79,37,tidak stunting
+11,Laki Laki,10,70,35,tidak stunting
+11,Laki Laki,8,78,35,tidak stunting
+11,Laki Laki,9,78,36,tidak stunting
+11,Laki Laki,10,69,32,stunting
+11,Laki Laki,10,70,33,stunting
+11,Laki Laki,10,78,33,stunting
+11,Laki Laki,7,74,35,stunting
+11,Laki Laki,10,79,33,stunting
+11,Laki Laki,10,72,34,tidak stunting
+11,Laki Laki,9,70,36,tidak stunting
+11,Laki Laki,11,78,32,stunting
+11,Laki Laki,10,77,37,tidak stunting
+11,Laki Laki,9,70,33,stunting
+11,Laki Laki,9,79,32,stunting
+11,Laki Laki,10,79,32,stunting
+11,Laki Laki,7,69,34,stunting
+11,Laki Laki,8,77,36,tidak stunting
+11,Laki Laki,9,77,35,tidak stunting
+11,Laki Laki,9,69,32,stunting
+11,Laki Laki,7,71,37,stunting
+11,Laki Laki,7,77,37,stunting
+11,Laki Laki,11,79,37,tidak stunting
+11,Laki Laki,10,71,35,tidak stunting
+11,Laki Laki,8,76,33,stunting
+11,Laki Laki,11,70,32,stunting
+11,Laki Laki,9,74,35,tidak stunting
+11,Laki Laki,7,77,37,stunting
+11,Laki Laki,9,73,32,stunting
+11,Laki Laki,7,79,37,stunting
+11,Perempuan,7,71,35,tidak stunting
+11,Perempuan,8,71,36,tidak stunting
+11,Perempuan,9,77,34,tidak stunting
+11,Perempuan,7,77,32,stunting
+11,Perempuan,10,70,34,tidak stunting
+11,Perempuan,6,67,36,stunting
+11,Perempuan,9,74,36,tidak stunting
+11,Perempuan,10,72,36,tidak stunting
+11,Perempuan,9,67,35,stunting
+11,Perempuan,7,68,36,tidak stunting
+11,Perempuan,10,68,36,tidak stunting
+11,Perempuan,11,72,35,tidak stunting
+11,Perempuan,8,76,36,tidak stunting
+11,Perempuan,6,67,34,stunting
+11,Perempuan,10,67,32,stunting
+11,Perempuan,10,70,33,stunting
+11,Perempuan,7,68,36,tidak stunting
+11,Perempuan,6,73,33,stunting
+11,Perempuan,7,71,33,stunting
+11,Perempuan,10,72,32,stunting
+11,Perempuan,10,73,34,tidak stunting
+11,Perempuan,6,67,36,stunting
+11,Perempuan,8,70,35,tidak stunting
+11,Perempuan,6,75,34,stunting
+11,Perempuan,11,68,34,tidak stunting
+11,Perempuan,6,74,33,stunting
+11,Perempuan,10,77,33,stunting
+11,Perempuan,6,67,33,stunting
+11,Perempuan,6,69,33,stunting
+11,Perempuan,7,68,33,stunting
+11,Perempuan,6,75,33,stunting
+11,Perempuan,11,71,32,stunting
+11,Perempuan,7,69,35,tidak stunting
+11,Perempuan,6,67,32,stunting
+11,Perempuan,6,73,33,stunting
+11,Perempuan,9,68,34,tidak stunting
+11,Perempuan,8,74,34,tidak stunting
+11,Perempuan,10,72,35,tidak stunting
+11,Perempuan,9,76,35,tidak stunting
+11,Perempuan,7,67,36,stunting
+11,Perempuan,8,69,36,tidak stunting
+11,Perempuan,10,71,35,tidak stunting
+11,Perempuan,7,74,35,tidak stunting
+11,Perempuan,11,67,35,stunting
+11,Perempuan,9,68,33,stunting
+11,Perempuan,11,75,35,tidak stunting
+11,Perempuan,9,74,35,tidak stunting
+11,Perempuan,8,72,36,tidak stunting
+11,Perempuan,9,70,36,tidak stunting
+11,Perempuan,9,71,35,tidak stunting
+12,Laki Laki,10,77,34,tidak stunting
+12,Laki Laki,10,80,32,stunting
+12,Laki Laki,11,73,36,tidak stunting
+12,Laki Laki,9,72,31,stunting
+12,Laki Laki,10,72,36,tidak stunting
+12,Laki Laki,10,74,33,stunting
+12,Laki Laki,7,70,36,stunting
+12,Laki Laki,11,74,33,stunting
+12,Laki Laki,8,75,36,tidak stunting
+12,Laki Laki,8,76,34,tidak stunting
+12,Laki Laki,7,72,31,stunting
+12,Laki Laki,8,70,36,stunting
+12,Laki Laki,8,70,36,stunting
+12,Laki Laki,8,78,35,tidak stunting
+12,Laki Laki,6,76,32,stunting
+12,Laki Laki,9,69,31,stunting
+12,Laki Laki,8,72,31,stunting
+12,Laki Laki,9,79,31,stunting
+12,Laki Laki,9,73,31,stunting
+12,Laki Laki,10,78,36,tidak stunting
+12,Laki Laki,8,74,36,tidak stunting
+12,Laki Laki,8,77,30,stunting
+12,Laki Laki,9,77,30,stunting
+12,Laki Laki,8,76,32,stunting
+12,Laki Laki,7,75,34,stunting
+12,Laki Laki,10,69,34,stunting
+12,Laki Laki,7,73,36,stunting
+12,Laki Laki,6,78,33,stunting
+12,Laki Laki,10,71,35,tidak stunting
+12,Laki Laki,7,77,35,stunting
+12,Laki Laki,6,74,37,stunting
+12,Laki Laki,10,71,32,stunting
+12,Laki Laki,7,69,35,stunting
+12,Laki Laki,8,79,33,stunting
+12,Laki Laki,11,69,33,stunting
+12,Laki Laki,11,69,32,stunting
+12,Laki Laki,6,79,37,stunting
+12,Laki Laki,7,69,31,stunting
+12,Laki Laki,12,78,34,tidak stunting
+12,Laki Laki,10,79,35,tidak stunting
+12,Laki Laki,11,76,32,stunting
+12,Laki Laki,11,80,30,stunting
+12,Laki Laki,11,77,34,tidak stunting
+12,Laki Laki,7,71,37,stunting
+12,Laki Laki,7,69,32,stunting
+12,Laki Laki,7,75,31,stunting
+12,Laki Laki,7,79,33,stunting
+12,Laki Laki,10,70,33,stunting
+12,Laki Laki,8,73,30,stunting
+12,Laki Laki,11,73,35,tidak stunting
+12,Perempuan,5,79,32,stunting
+12,Perempuan,6,75,35,stunting
+12,Perempuan,11,75,32,stunting
+12,Perempuan,9,76,32,stunting
+12,Perempuan,5,75,30,stunting
+12,Perempuan,6,75,36,stunting
+12,Perempuan,11,77,32,stunting
+12,Perempuan,5,79,35,stunting
+12,Perempuan,11,79,31,stunting
+12,Perempuan,7,78,34,tidak stunting
+12,Perempuan,7,75,35,tidak stunting
+12,Perempuan,10,79,36,tidak stunting
+12,Perempuan,7,75,34,tidak stunting
+12,Perempuan,11,79,31,stunting
+12,Perempuan,7,79,32,stunting
+12,Perempuan,6,79,30,stunting
+12,Perempuan,11,79,32,stunting
+12,Perempuan,7,75,35,tidak stunting
+12,Perempuan,6,79,32,stunting
+12,Perempuan,9,78,31,stunting
+12,Perempuan,5,79,31,stunting
+12,Perempuan,8,79,34,tidak stunting
+12,Perempuan,7,75,31,stunting
+12,Perempuan,10,79,35,tidak stunting
+12,Perempuan,7,78,32,stunting
+12,Perempuan,8,79,35,tidak stunting
+12,Perempuan,6,77,32,stunting
+12,Perempuan,8,77,34,tidak stunting
+12,Perempuan,7,76,34,tidak stunting
+12,Perempuan,10,78,33,stunting
+12,Perempuan,6,78,33,stunting
+12,Perempuan,9,78,34,tidak stunting
+12,Perempuan,6,77,33,stunting
+12,Perempuan,7,76,32,stunting
+12,Perempuan,7,76,35,tidak stunting
+12,Perempuan,6,75,30,stunting
+12,Perempuan,10,79,34,tidak stunting
+12,Perempuan,10,76,31,stunting
+12,Perempuan,7,78,33,stunting
+12,Perempuan,11,75,30,stunting
+12,Perempuan,5,79,31,stunting
+12,Perempuan,6,78,30,stunting
+12,Perempuan,11,78,33,stunting
+12,Perempuan,6,78,33,stunting
+12,Perempuan,7,76,34,tidak stunting
+12,Perempuan,10,77,36,tidak stunting
+12,Perempuan,11,77,32,stunting
+12,Perempuan,9,76,30,stunting
+12,Perempuan,8,77,36,tidak stunting
+12,Perempuan,6,76,33,stunting
+13,Laki Laki,10,70,33,stunting
+13,Laki Laki,9,80,36,tidak stunting
+13,Laki Laki,12,73,35,tidak stunting
+13,Laki Laki,7,72,38,stunting
+13,Laki Laki,12,70,34,stunting
+13,Laki Laki,8,71,33,stunting
+13,Laki Laki,11,70,33,stunting
+13,Laki Laki,11,73,32,stunting
+13,Laki Laki,7,81,36,stunting
+13,Laki Laki,10,77,33,stunting
+13,Laki Laki,12,73,35,tidak stunting
+13,Laki Laki,11,81,33,stunting
+13,Laki Laki,6,81,38,stunting
+13,Laki Laki,11,79,38,tidak stunting
+13,Laki Laki,8,81,34,tidak stunting
+13,Laki Laki,12,80,34,tidak stunting
+13,Laki Laki,11,74,32,stunting
+13,Laki Laki,11,75,32,stunting
+13,Laki Laki,11,76,32,stunting
+13,Laki Laki,12,70,36,stunting
+13,Laki Laki,6,77,35,stunting
+13,Laki Laki,9,76,37,tidak stunting
+13,Laki Laki,7,76,34,stunting
+13,Laki Laki,12,77,33,stunting
+13,Laki Laki,12,76,33,stunting
+13,Laki Laki,7,77,38,stunting
+13,Laki Laki,11,74,36,tidak stunting
+13,Laki Laki,6,75,33,stunting
+13,Laki Laki,10,75,35,tidak stunting
+13,Laki Laki,11,79,33,stunting
+13,Laki Laki,11,70,33,stunting
+13,Laki Laki,9,71,38,stunting
+13,Laki Laki,6,79,38,stunting
+13,Laki Laki,9,78,35,tidak stunting
+13,Laki Laki,11,70,37,stunting
+13,Laki Laki,12,72,33,stunting
+13,Laki Laki,9,78,36,tidak stunting
+13,Laki Laki,7,78,38,stunting
+13,Laki Laki,12,70,38,stunting
+13,Laki Laki,6,74,35,stunting
+13,Laki Laki,11,79,33,stunting
+13,Laki Laki,12,80,38,tidak stunting
+13,Laki Laki,10,79,35,tidak stunting
+13,Laki Laki,9,80,34,tidak stunting
+13,Laki Laki,6,73,35,stunting
+13,Laki Laki,7,77,36,stunting
+13,Laki Laki,9,72,32,stunting
+13,Laki Laki,9,73,34,tidak stunting
+13,Laki Laki,12,74,37,tidak stunting
+13,Laki Laki,12,74,32,stunting
+13,Perempuan,11,77,32,stunting
+13,Perempuan,11,80,32,stunting
+13,Perempuan,6,75,36,stunting
+13,Perempuan,9,80,36,tidak stunting
+13,Perempuan,7,80,35,stunting
+13,Perempuan,11,80,35,tidak stunting
+13,Perempuan,7,75,37,stunting
+13,Perempuan,10,77,35,tidak stunting
+13,Perempuan,8,76,31,stunting
+13,Perempuan,7,76,35,stunting
+13,Perempuan,8,77,36,tidak stunting
+13,Perempuan,8,76,33,stunting
+13,Perempuan,7,77,33,stunting
+13,Perempuan,7,75,31,stunting
+13,Perempuan,9,80,32,stunting
+13,Perempuan,6,79,33,stunting
+13,Perempuan,6,77,33,stunting
+13,Perempuan,7,78,37,stunting
+13,Perempuan,11,80,35,tidak stunting
+13,Perempuan,8,79,37,tidak stunting
+13,Perempuan,11,80,34,tidak stunting
+13,Perempuan,9,76,36,tidak stunting
+13,Perempuan,9,75,36,tidak stunting
+13,Perempuan,7,79,31,stunting
+13,Perempuan,11,76,33,stunting
+13,Perempuan,7,79,33,stunting
+13,Perempuan,9,76,32,stunting
+13,Perempuan,10,80,37,tidak stunting
+13,Perempuan,7,78,33,stunting
+13,Perempuan,8,80,35,tidak stunting
+13,Perempuan,7,77,32,stunting
+13,Perempuan,8,78,31,stunting
+13,Perempuan,10,75,36,tidak stunting
+13,Perempuan,7,78,35,stunting
+13,Perempuan,7,79,37,stunting
+13,Perempuan,8,79,32,stunting
+13,Perempuan,11,79,37,tidak stunting
+13,Perempuan,11,78,31,stunting
+13,Perempuan,6,75,32,stunting
+13,Perempuan,9,76,32,stunting
+13,Perempuan,10,78,37,tidak stunting
+13,Perempuan,10,77,35,tidak stunting
+13,Perempuan,7,79,33,stunting
+13,Perempuan,8,78,36,tidak stunting
+13,Perempuan,10,79,35,tidak stunting
+13,Perempuan,10,76,37,tidak stunting
+13,Perempuan,10,75,35,tidak stunting
+13,Perempuan,7,80,32,stunting
+13,Perempuan,7,75,37,stunting
+13,Perempuan,11,75,36,tidak stunting
+14,Laki Laki,11,81,34,tidak stunting
+14,Laki Laki,11,76,35,tidak stunting
+14,Laki Laki,8,82,37,stunting
+14,Laki Laki,8,81,37,stunting
+14,Laki Laki,12,81,34,tidak stunting
+14,Laki Laki,12,81,37,tidak stunting
+14,Laki Laki,9,81,34,tidak stunting
+14,Laki Laki,8,82,37,stunting
+14,Laki Laki,12,82,37,tidak stunting
+14,Laki Laki,7,78,34,stunting
+14,Laki Laki,10,80,34,tidak stunting
+14,Laki Laki,10,83,36,tidak stunting
+14,Laki Laki,9,82,33,stunting
+14,Laki Laki,8,83,35,stunting
+14,Laki Laki,12,81,35,tidak stunting
+14,Laki Laki,10,83,37,tidak stunting
+14,Laki Laki,7,80,34,stunting
+14,Laki Laki,8,78,33,stunting
+14,Laki Laki,8,76,36,stunting
+14,Laki Laki,12,83,36,tidak stunting
+14,Laki Laki,9,80,36,tidak stunting
+14,Laki Laki,9,79,36,tidak stunting
+14,Laki Laki,7,83,37,stunting
+14,Laki Laki,10,75,34,tidak stunting
+14,Laki Laki,8,80,33,stunting
+14,Laki Laki,8,78,37,stunting
+14,Laki Laki,11,78,36,tidak stunting
+14,Laki Laki,11,81,36,tidak stunting
+14,Laki Laki,10,81,36,tidak stunting
+14,Laki Laki,12,76,37,tidak stunting
+14,Laki Laki,11,80,34,tidak stunting
+14,Laki Laki,10,81,36,tidak stunting
+14,Laki Laki,7,77,35,stunting
+14,Laki Laki,10,77,35,tidak stunting
+14,Laki Laki,10,79,37,tidak stunting
+14,Laki Laki,7,81,37,stunting
+14,Laki Laki,9,80,37,tidak stunting
+14,Laki Laki,11,79,35,tidak stunting
+14,Laki Laki,7,75,36,stunting
+14,Laki Laki,7,76,36,stunting
+14,Laki Laki,8,79,35,stunting
+14,Laki Laki,8,75,34,stunting
+14,Laki Laki,7,79,33,stunting
+14,Laki Laki,10,75,34,tidak stunting
+14,Laki Laki,11,81,36,tidak stunting
+14,Laki Laki,12,81,35,tidak stunting
+14,Laki Laki,12,83,36,tidak stunting
+14,Laki Laki,11,82,36,tidak stunting
+14,Laki Laki,7,78,36,stunting
+14,Laki Laki,10,80,37,tidak stunting
+14,Perempuan,12,76,34,tidak stunting
+14,Perempuan,8,80,33,stunting
+14,Perempuan,11,75,31,stunting
+14,Perempuan,9,77,35,tidak stunting
+14,Perempuan,10,81,34,tidak stunting
+14,Perempuan,12,80,33,stunting
+14,Perempuan,7,77,36,stunting
+14,Perempuan,12,79,34,tidak stunting
+14,Perempuan,10,78,33,stunting
+14,Perempuan,11,78,32,stunting
+14,Perempuan,11,80,33,stunting
+14,Perempuan,8,81,35,tidak stunting
+14,Perempuan,7,77,33,stunting
+14,Perempuan,7,80,31,stunting
+14,Perempuan,8,80,37,tidak stunting
+14,Perempuan,12,78,34,tidak stunting
+14,Perempuan,8,79,32,stunting
+14,Perempuan,9,81,31,stunting
+14,Perempuan,7,79,36,stunting
+14,Perempuan,9,77,36,tidak stunting
+14,Perempuan,10,76,34,tidak stunting
+14,Perempuan,9,77,36,tidak stunting
+14,Perempuan,9,78,32,stunting
+14,Perempuan,11,78,31,stunting
+14,Perempuan,12,81,32,stunting
+14,Perempuan,9,76,32,stunting
+14,Perempuan,8,77,36,tidak stunting
+14,Perempuan,7,77,34,stunting
+14,Perempuan,10,78,36,tidak stunting
+14,Perempuan,8,77,37,tidak stunting
+14,Perempuan,9,81,37,tidak stunting
+14,Perempuan,9,79,35,tidak stunting
+14,Perempuan,9,77,37,tidak stunting
+14,Perempuan,12,79,32,stunting
+14,Perempuan,11,76,36,tidak stunting
+14,Perempuan,8,78,31,stunting
+14,Perempuan,10,75,34,tidak stunting
+14,Perempuan,12,80,37,tidak stunting
+14,Perempuan,8,80,31,stunting
+14,Perempuan,8,77,32,stunting
+14,Perempuan,9,77,33,stunting
+14,Perempuan,8,76,36,tidak stunting
+14,Perempuan,8,75,35,tidak stunting
+14,Perempuan,7,76,36,stunting
+14,Perempuan,7,78,36,stunting
+14,Perempuan,7,80,36,stunting
+14,Perempuan,8,81,33,stunting
+14,Perempuan,12,75,35,tidak stunting
+14,Perempuan,9,77,32,stunting
+14,Perempuan,9,80,35,tidak stunting
+15,Laki Laki,11,76,36,tidak stunting
+15,Laki Laki,10,73,33,stunting
+15,Laki Laki,11,82,33,stunting
+15,Laki Laki,11,81,33,stunting
+15,Laki Laki,10,81,37,tidak stunting
+15,Laki Laki,11,77,33,stunting
+15,Laki Laki,8,81,33,stunting
+15,Laki Laki,9,76,35,tidak stunting
+15,Laki Laki,9,75,36,tidak stunting
+15,Laki Laki,11,82,35,tidak stunting
+15,Laki Laki,8,80,37,stunting
+15,Laki Laki,10,76,36,tidak stunting
+15,Laki Laki,10,77,34,stunting
+15,Laki Laki,11,76,35,tidak stunting
+15,Laki Laki,8,79,36,stunting
+15,Laki Laki,8,81,33,stunting
+15,Laki Laki,9,83,36,tidak stunting
+15,Laki Laki,11,83,33,stunting
+15,Laki Laki,8,79,34,stunting
+15,Laki Laki,11,78,37,tidak stunting
+15,Laki Laki,9,75,36,tidak stunting
+15,Laki Laki,11,76,36,tidak stunting
+15,Laki Laki,12,79,34,stunting
+15,Laki Laki,12,81,37,tidak stunting
+15,Laki Laki,11,78,33,stunting
+15,Laki Laki,10,75,34,stunting
+15,Laki Laki,9,73,36,stunting
+15,Laki Laki,8,75,36,stunting
+15,Laki Laki,10,79,34,stunting
+15,Laki Laki,11,84,34,stunting
+15,Laki Laki,10,84,35,tidak stunting
+15,Laki Laki,8,82,33,stunting
+15,Laki Laki,8,81,36,stunting
+15,Laki Laki,12,84,33,stunting
+15,Laki Laki,10,83,36,tidak stunting
+15,Laki Laki,12,74,35,stunting
+15,Laki Laki,9,79,34,stunting
+15,Laki Laki,8,78,35,stunting
+15,Laki Laki,11,73,35,stunting
+15,Laki Laki,8,84,35,stunting
+15,Laki Laki,11,80,34,stunting
+15,Laki Laki,8,80,37,stunting
+15,Laki Laki,10,74,35,stunting
+15,Laki Laki,12,76,37,tidak stunting
+15,Laki Laki,11,77,37,tidak stunting
+15,Laki Laki,12,76,33,stunting
+15,Laki Laki,9,77,34,stunting
+15,Laki Laki,9,81,37,tidak stunting
+15,Laki Laki,11,80,36,tidak stunting
+15,Laki Laki,12,84,34,stunting
+15,Perempuan,7,92,31,stunting
+15,Perempuan,7,85,33,stunting
+15,Perempuan,11,82,34,stunting
+15,Perempuan,15,75,30,stunting
+15,Perempuan,11,76,31,stunting
+15,Perempuan,14,87,30,stunting
+15,Perempuan,15,88,31,stunting
+15,Perempuan,7,87,33,stunting
+15,Perempuan,9,90,35,stunting
+15,Perempuan,8,83,35,stunting
+15,Perempuan,8,85,35,stunting
+15,Perempuan,12,87,38,tidak stunting
+15,Perempuan,10,78,38,stunting
+15,Perempuan,12,75,32,stunting
+15,Perempuan,5,92,36,stunting
+15,Perempuan,5,92,36,stunting
+15,Perempuan,7,79,35,stunting
+15,Perempuan,15,79,37,stunting
+15,Perempuan,13,88,31,stunting
+15,Perempuan,14,85,33,stunting
+15,Perempuan,13,77,36,stunting
+15,Perempuan,12,90,32,stunting
+15,Perempuan,7,85,36,stunting
+15,Perempuan,11,84,33,stunting
+15,Perempuan,10,81,37,tidak stunting
+15,Perempuan,13,88,34,stunting
+15,Perempuan,14,79,38,stunting
+15,Perempuan,9,78,30,stunting
+15,Perempuan,7,79,36,stunting
+15,Perempuan,8,77,36,stunting
+15,Perempuan,12,88,36,tidak stunting
+15,Perempuan,5,78,37,stunting
+15,Perempuan,15,82,34,stunting
+15,Perempuan,10,79,34,stunting
+15,Perempuan,5,92,37,stunting
+15,Perempuan,8,86,35,stunting
+15,Perempuan,14,92,33,stunting
+15,Perempuan,12,86,36,tidak stunting
+15,Perempuan,10,78,30,stunting
+15,Perempuan,8,87,30,stunting
+15,Perempuan,6,79,37,stunting
+15,Perempuan,13,78,34,stunting
+15,Perempuan,10,84,34,stunting
+15,Perempuan,5,92,38,stunting
+15,Perempuan,7,91,37,stunting
+15,Perempuan,5,81,38,stunting
+15,Perempuan,7,91,37,stunting
+15,Perempuan,10,84,36,tidak stunting
+15,Perempuan,15,82,32,stunting
+15,Perempuan,14,92,33,stunting
+16,Laki Laki,12,81,30,stunting
+16,Laki Laki,11,79,35,tidak stunting
+16,Laki Laki,10,76,35,tidak stunting
+16,Laki Laki,11,78,30,stunting
+16,Laki Laki,10,83,30,stunting
+16,Laki Laki,12,81,31,stunting
+16,Laki Laki,13,81,35,tidak stunting
+16,Laki Laki,12,83,34,stunting
+16,Laki Laki,11,80,30,stunting
+16,Laki Laki,11,77,33,stunting
+16,Laki Laki,12,83,32,stunting
+16,Laki Laki,10,85,33,stunting
+16,Laki Laki,10,82,30,stunting
+16,Laki Laki,11,76,31,stunting
+16,Laki Laki,10,84,36,tidak stunting
+16,Laki Laki,11,81,34,stunting
+16,Laki Laki,10,79,36,tidak stunting
+16,Laki Laki,13,85,30,stunting
+16,Laki Laki,11,80,32,stunting
+16,Laki Laki,12,83,35,tidak stunting
+16,Laki Laki,11,79,37,tidak stunting
+16,Laki Laki,12,79,34,stunting
+16,Laki Laki,12,85,33,stunting
+16,Laki Laki,11,75,35,tidak stunting
+16,Laki Laki,10,83,30,stunting
+16,Laki Laki,12,81,34,stunting
+16,Laki Laki,12,76,36,tidak stunting
+16,Laki Laki,13,80,35,tidak stunting
+16,Laki Laki,10,82,35,tidak stunting
+16,Laki Laki,12,79,34,stunting
+16,Laki Laki,12,75,32,stunting
+16,Laki Laki,11,83,35,tidak stunting
+16,Laki Laki,10,80,35,tidak stunting
+16,Laki Laki,13,75,33,stunting
+16,Laki Laki,10,83,33,stunting
+16,Laki Laki,13,75,34,stunting
+16,Laki Laki,12,77,35,tidak stunting
+16,Laki Laki,10,82,37,tidak stunting
+16,Laki Laki,10,75,33,stunting
+16,Laki Laki,11,79,37,tidak stunting
+16,Laki Laki,10,76,37,tidak stunting
+16,Laki Laki,10,79,31,stunting
+16,Laki Laki,12,82,35,tidak stunting
+16,Laki Laki,12,79,34,stunting
+16,Laki Laki,11,80,36,tidak stunting
+16,Laki Laki,12,79,37,tidak stunting
+16,Laki Laki,13,80,36,tidak stunting
+16,Laki Laki,11,75,32,stunting
+16,Laki Laki,13,82,34,stunting
+16,Laki Laki,13,78,31,stunting
+16,Perempuan,12,82,36,tidak stunting
+16,Perempuan,12,78,30,stunting
+16,Perempuan,12,78,35,tidak stunting
+16,Perempuan,11,76,32,stunting
+16,Perempuan,12,80,33,stunting
+16,Perempuan,11,82,36,tidak stunting
+16,Perempuan,11,81,31,stunting
+16,Perempuan,11,79,31,stunting
+16,Perempuan,11,80,35,tidak stunting
+16,Perempuan,11,78,34,tidak stunting
+16,Perempuan,11,79,32,stunting
+16,Perempuan,12,82,32,stunting
+16,Perempuan,11,75,37,tidak stunting
+16,Perempuan,12,84,36,tidak stunting
+16,Perempuan,11,83,37,tidak stunting
+16,Perempuan,11,80,33,stunting
+16,Perempuan,11,82,37,tidak stunting
+16,Perempuan,12,79,36,tidak stunting
+16,Perempuan,12,76,36,tidak stunting
+16,Perempuan,12,82,31,stunting
+16,Perempuan,12,79,37,tidak stunting
+16,Perempuan,12,78,31,stunting
+16,Perempuan,11,83,31,stunting
+16,Perempuan,12,82,35,tidak stunting
+16,Perempuan,12,75,34,tidak stunting
+16,Perempuan,12,78,35,tidak stunting
+16,Perempuan,11,83,34,tidak stunting
+16,Perempuan,11,76,34,tidak stunting
+16,Perempuan,12,76,30,stunting
+16,Perempuan,12,79,30,stunting
+16,Perempuan,12,78,30,stunting
+16,Perempuan,12,77,33,stunting
+16,Perempuan,12,83,30,stunting
+16,Perempuan,12,78,34,tidak stunting
+16,Perempuan,11,80,32,stunting
+16,Perempuan,12,81,32,stunting
+16,Perempuan,12,75,35,tidak stunting
+16,Perempuan,11,81,34,tidak stunting
+16,Perempuan,12,76,37,tidak stunting
+16,Perempuan,11,76,33,stunting
+16,Perempuan,12,81,36,tidak stunting
+16,Perempuan,11,84,37,tidak stunting
+16,Perempuan,11,79,32,stunting
+16,Perempuan,12,78,31,stunting
+16,Perempuan,12,82,36,tidak stunting
+16,Perempuan,11,78,33,stunting
+16,Perempuan,11,82,37,tidak stunting
+16,Perempuan,12,77,32,stunting
+16,Perempuan,11,76,34,tidak stunting
+16,Perempuan,12,80,34,tidak stunting
+17,Laki Laki,12,78,38,tidak stunting
+17,Laki Laki,13,86,38,tidak stunting
+17,Laki Laki,13,78,36,tidak stunting
+17,Laki Laki,11,78,36,tidak stunting
+17,Laki Laki,11,85,38,tidak stunting
+17,Laki Laki,12,81,36,tidak stunting
+17,Laki Laki,12,76,37,tidak stunting
+17,Laki Laki,13,84,34,stunting
+17,Laki Laki,11,80,38,tidak stunting
+17,Laki Laki,13,79,37,tidak stunting
+17,Laki Laki,11,80,38,tidak stunting
+17,Laki Laki,12,77,35,tidak stunting
+17,Laki Laki,12,81,36,tidak stunting
+17,Laki Laki,12,76,33,stunting
+17,Laki Laki,12,79,30,stunting
+17,Laki Laki,13,86,37,tidak stunting
+17,Laki Laki,12,79,38,tidak stunting
+17,Laki Laki,11,81,38,tidak stunting
+17,Laki Laki,13,85,37,tidak stunting
+17,Laki Laki,12,80,35,tidak stunting
+17,Laki Laki,12,79,35,tidak stunting
+17,Laki Laki,13,80,32,stunting
+17,Laki Laki,11,83,30,stunting
+17,Laki Laki,13,81,31,stunting
+17,Laki Laki,11,79,30,stunting
+17,Laki Laki,11,85,31,stunting
+17,Laki Laki,11,76,34,stunting
+17,Laki Laki,13,83,34,stunting
+17,Laki Laki,11,78,33,stunting
+17,Laki Laki,11,75,37,stunting
+17,Laki Laki,11,79,30,stunting
+17,Laki Laki,11,76,38,tidak stunting
+17,Laki Laki,12,83,35,tidak stunting
+17,Laki Laki,13,86,37,tidak stunting
+17,Laki Laki,11,86,35,tidak stunting
+17,Laki Laki,13,79,36,tidak stunting
+17,Laki Laki,13,82,34,stunting
+17,Laki Laki,11,77,37,tidak stunting
+17,Laki Laki,11,81,34,stunting
+17,Laki Laki,11,80,30,stunting
+17,Laki Laki,11,78,37,tidak stunting
+17,Laki Laki,13,81,31,stunting
+17,Laki Laki,11,83,34,stunting
+17,Laki Laki,12,75,33,stunting
+17,Laki Laki,12,84,36,tidak stunting
+17,Laki Laki,11,83,32,stunting
+17,Laki Laki,12,79,34,stunting
+17,Laki Laki,13,79,35,tidak stunting
+17,Laki Laki,13,84,32,stunting
+17,Laki Laki,11,82,35,tidak stunting
+17,Perempuan,10,78,34,tidak stunting
+17,Perempuan,11,81,33,stunting
+17,Perempuan,12,81,36,tidak stunting
+17,Perempuan,11,75,34,tidak stunting
+17,Perempuan,10,76,31,stunting
+17,Perempuan,13,84,31,stunting
+17,Perempuan,11,76,30,stunting
+17,Perempuan,13,79,32,stunting
+17,Perempuan,11,80,34,tidak stunting
+17,Perempuan,10,82,34,tidak stunting
+17,Perempuan,11,82,35,tidak stunting
+17,Perempuan,12,78,35,tidak stunting
+17,Perempuan,12,82,33,stunting
+17,Perempuan,13,84,37,tidak stunting
+17,Perempuan,12,76,30,stunting
+17,Perempuan,12,79,34,tidak stunting
+17,Perempuan,10,78,34,tidak stunting
+17,Perempuan,13,84,30,stunting
+17,Perempuan,12,83,32,stunting
+17,Perempuan,10,80,33,stunting
+17,Perempuan,11,85,36,tidak stunting
+17,Perempuan,13,79,32,stunting
+17,Perempuan,11,76,35,tidak stunting
+17,Perempuan,13,85,31,stunting
+17,Perempuan,12,85,30,stunting
+17,Perempuan,12,80,31,stunting
+17,Perempuan,10,79,37,tidak stunting
+17,Perempuan,11,83,36,tidak stunting
+17,Perempuan,12,81,37,tidak stunting
+17,Perempuan,11,81,37,tidak stunting
+17,Perempuan,10,85,33,stunting
+17,Perempuan,13,81,32,stunting
+17,Perempuan,11,77,35,tidak stunting
+17,Perempuan,11,81,33,stunting
+17,Perempuan,11,77,30,stunting
+17,Perempuan,10,85,37,tidak stunting
+17,Perempuan,11,79,37,tidak stunting
+17,Perempuan,11,75,30,stunting
+17,Perempuan,11,76,33,stunting
+17,Perempuan,12,83,36,tidak stunting
+17,Perempuan,11,80,36,tidak stunting
+17,Perempuan,13,83,32,stunting
+17,Perempuan,11,84,37,tidak stunting
+17,Perempuan,10,77,33,stunting
+17,Perempuan,12,76,36,tidak stunting
+17,Perempuan,13,76,32,stunting
+17,Perempuan,13,79,35,tidak stunting
+17,Perempuan,13,81,36,tidak stunting
+17,Perempuan,12,85,33,stunting
+17,Perempuan,12,81,32,stunting
+18,Laki Laki,11,82,31,stunting
+18,Laki Laki,12,79,31,stunting
+18,Laki Laki,12,84,38,tidak stunting
+18,Laki Laki,13,86,31,stunting
+18,Laki Laki,13,84,35,tidak stunting
+18,Laki Laki,12,87,31,stunting
+18,Laki Laki,12,79,36,tidak stunting
+18,Laki Laki,11,86,38,tidak stunting
+18,Laki Laki,13,81,30,stunting
+18,Laki Laki,12,83,31,stunting
+18,Laki Laki,11,87,36,tidak stunting
+18,Laki Laki,11,84,30,stunting
+18,Laki Laki,12,78,32,stunting
+18,Laki Laki,13,84,30,stunting
+18,Laki Laki,12,79,37,tidak stunting
+18,Laki Laki,13,78,32,stunting
+18,Laki Laki,11,81,38,tidak stunting
+18,Laki Laki,11,81,38,tidak stunting
+18,Laki Laki,13,75,33,tidak stunting
+18,Laki Laki,11,78,38,tidak stunting
+18,Laki Laki,12,84,37,tidak stunting
+18,Laki Laki,13,86,35,tidak stunting
+18,Laki Laki,13,81,37,tidak stunting
+18,Laki Laki,11,83,34,tidak stunting
+18,Laki Laki,13,83,36,tidak stunting
+18,Laki Laki,12,85,34,tidak stunting
+18,Laki Laki,12,80,38,tidak stunting
+18,Laki Laki,13,84,30,stunting
+18,Laki Laki,12,77,38,tidak stunting
+18,Laki Laki,13,77,32,stunting
+18,Laki Laki,12,80,35,tidak stunting
+18,Laki Laki,13,79,33,tidak stunting
+18,Laki Laki,13,81,31,stunting
+18,Laki Laki,12,78,36,tidak stunting
+18,Laki Laki,12,82,31,stunting
+18,Laki Laki,13,78,30,stunting
+18,Laki Laki,12,83,32,stunting
+18,Laki Laki,13,84,38,tidak stunting
+18,Laki Laki,13,82,37,tidak stunting
+18,Laki Laki,11,82,36,tidak stunting
+18,Laki Laki,12,78,35,tidak stunting
+18,Laki Laki,13,76,35,tidak stunting
+18,Laki Laki,11,81,34,tidak stunting
+18,Laki Laki,11,82,36,tidak stunting
+18,Laki Laki,11,86,30,stunting
+18,Laki Laki,11,75,35,tidak stunting
+18,Laki Laki,11,80,34,tidak stunting
+18,Laki Laki,13,81,31,stunting
+18,Laki Laki,11,75,37,tidak stunting
+18,Laki Laki,13,85,30,stunting
+18,Perempuan,13,75,37,tidak stunting
+18,Perempuan,11,78,31,stunting
+18,Perempuan,11,85,32,stunting
+18,Perempuan,12,80,31,stunting
+18,Perempuan,11,85,37,tidak stunting
+18,Perempuan,13,81,32,stunting
+18,Perempuan,11,84,30,stunting
+18,Perempuan,13,86,36,tidak stunting
+18,Perempuan,11,76,33,stunting
+18,Perempuan,13,79,37,tidak stunting
+18,Perempuan,13,85,32,stunting
+18,Perempuan,13,82,30,stunting
+18,Perempuan,13,82,34,tidak stunting
+18,Perempuan,13,80,32,stunting
+18,Perempuan,13,80,30,stunting
+18,Perempuan,12,84,37,tidak stunting
+18,Perempuan,11,85,34,tidak stunting
+18,Perempuan,11,82,33,stunting
+18,Perempuan,11,76,35,tidak stunting
+18,Perempuan,11,84,36,tidak stunting
+18,Perempuan,12,80,35,tidak stunting
+18,Perempuan,11,76,34,tidak stunting
+18,Perempuan,12,76,32,stunting
+18,Perempuan,11,76,30,stunting
+18,Perempuan,12,85,34,tidak stunting
+18,Perempuan,13,76,31,stunting
+18,Perempuan,11,75,32,stunting
+18,Perempuan,12,76,31,stunting
+18,Perempuan,13,79,35,tidak stunting
+18,Perempuan,12,79,33,stunting
+18,Perempuan,12,79,33,stunting
+18,Perempuan,13,76,33,stunting
+18,Perempuan,13,77,37,tidak stunting
+18,Perempuan,11,75,37,tidak stunting
+18,Perempuan,12,85,37,tidak stunting
+18,Perempuan,11,85,37,tidak stunting
+18,Perempuan,12,78,32,stunting
+18,Perempuan,11,75,36,tidak stunting
+18,Perempuan,13,82,35,tidak stunting
+18,Perempuan,11,85,34,tidak stunting
+18,Perempuan,12,77,33,stunting
+18,Perempuan,13,79,35,tidak stunting
+18,Perempuan,11,80,32,stunting
+18,Perempuan,12,79,36,tidak stunting
+18,Perempuan,12,77,37,tidak stunting
+18,Perempuan,12,85,35,tidak stunting
+18,Perempuan,12,79,30,stunting
+18,Perempuan,13,78,37,tidak stunting
+18,Perempuan,11,79,34,tidak stunting
+18,Perempuan,13,83,35,tidak stunting
+19,Laki Laki,14,78,38,tidak stunting
+19,Laki Laki,13,75,36,stunting
+19,Laki Laki,13,84,34,stunting
+19,Laki Laki,12,81,31,stunting
+19,Laki Laki,12,86,32,stunting
+19,Laki Laki,14,88,38,tidak stunting
+19,Laki Laki,14,76,33,stunting
+19,Laki Laki,12,75,36,stunting
+19,Laki Laki,13,79,30,stunting
+19,Laki Laki,13,88,34,stunting
+19,Laki Laki,13,80,35,tidak stunting
+19,Laki Laki,13,88,34,stunting
+19,Laki Laki,12,87,36,tidak stunting
+19,Laki Laki,12,85,37,tidak stunting
+19,Laki Laki,14,84,32,stunting
+19,Laki Laki,12,86,37,tidak stunting
+19,Laki Laki,12,82,31,stunting
+19,Laki Laki,13,83,33,stunting
+19,Laki Laki,12,76,35,stunting
+19,Laki Laki,12,76,31,stunting
+19,Laki Laki,13,88,32,stunting
+19,Laki Laki,13,85,35,tidak stunting
+19,Laki Laki,12,81,38,tidak stunting
+19,Laki Laki,13,80,34,stunting
+19,Laki Laki,12,81,35,tidak stunting
+19,Laki Laki,13,84,33,stunting
+19,Laki Laki,12,81,33,stunting
+19,Laki Laki,14,83,37,tidak stunting
+19,Laki Laki,14,87,30,stunting
+19,Laki Laki,13,86,35,tidak stunting
+19,Laki Laki,14,81,36,tidak stunting
+19,Laki Laki,14,77,35,stunting
+19,Laki Laki,14,82,34,stunting
+19,Laki Laki,14,81,37,tidak stunting
+19,Laki Laki,14,82,30,stunting
+19,Laki Laki,14,85,38,tidak stunting
+19,Laki Laki,14,75,36,stunting
+19,Laki Laki,13,86,36,tidak stunting
+19,Laki Laki,12,75,30,stunting
+19,Laki Laki,12,87,30,stunting
+19,Laki Laki,12,81,34,stunting
+19,Laki Laki,12,79,31,stunting
+19,Laki Laki,14,86,32,stunting
+19,Laki Laki,14,75,35,stunting
+19,Laki Laki,13,77,30,stunting
+19,Laki Laki,14,79,36,tidak stunting
+19,Laki Laki,14,82,32,stunting
+19,Laki Laki,14,81,31,stunting
+19,Laki Laki,12,77,30,stunting
+19,Laki Laki,14,86,38,tidak stunting
+19,Perempuan,12,85,30,stunting
+19,Perempuan,13,77,36,tidak stunting
+19,Perempuan,13,82,35,tidak stunting
+19,Perempuan,11,85,32,stunting
+19,Perempuan,12,82,33,stunting
+19,Perempuan,13,87,34,tidak stunting
+19,Perempuan,13,82,37,tidak stunting
+19,Perempuan,11,84,37,tidak stunting
+19,Perempuan,12,86,33,stunting
+19,Perempuan,12,82,32,stunting
+19,Perempuan,11,81,34,tidak stunting
+19,Perempuan,13,80,33,stunting
+19,Perempuan,12,76,37,tidak stunting
+19,Perempuan,13,83,35,tidak stunting
+19,Perempuan,11,84,37,tidak stunting
+19,Perempuan,11,76,35,tidak stunting
+19,Perempuan,13,81,37,tidak stunting
+19,Perempuan,12,76,37,tidak stunting
+19,Perempuan,13,79,32,stunting
+19,Perempuan,12,75,36,stunting
+19,Perempuan,13,87,36,tidak stunting
+19,Perempuan,13,76,36,tidak stunting
+19,Perempuan,12,83,30,stunting
+19,Perempuan,12,76,31,stunting
+19,Perempuan,13,82,37,tidak stunting
+19,Perempuan,11,78,30,stunting
+19,Perempuan,12,80,37,tidak stunting
+19,Perempuan,13,78,31,stunting
+19,Perempuan,13,78,32,stunting
+19,Perempuan,12,81,35,tidak stunting
+19,Perempuan,12,85,31,stunting
+19,Perempuan,13,82,37,tidak stunting
+19,Perempuan,12,75,30,stunting
+19,Perempuan,12,84,37,tidak stunting
+19,Perempuan,13,87,30,stunting
+19,Perempuan,11,84,32,stunting
+19,Perempuan,11,80,32,stunting
+19,Perempuan,13,83,33,stunting
+19,Perempuan,12,78,36,tidak stunting
+19,Perempuan,13,75,32,stunting
+19,Perempuan,13,85,36,tidak stunting
+19,Perempuan,13,80,33,stunting
+19,Perempuan,12,86,37,tidak stunting
+19,Perempuan,13,79,37,tidak stunting
+19,Perempuan,13,80,37,tidak stunting
+19,Perempuan,12,83,31,stunting
+19,Perempuan,13,87,31,stunting
+19,Perempuan,11,87,36,tidak stunting
+19,Perempuan,12,85,34,tidak stunting
+19,Perempuan,12,77,36,tidak stunting
+20,Laki Laki,13,77,36,stunting
+20,Laki Laki,13,89,38,tidak stunting
+20,Laki Laki,13,83,35,tidak stunting
+20,Laki Laki,12,76,37,stunting
+20,Laki Laki,12,76,34,stunting
+20,Laki Laki,14,85,37,tidak stunting
+20,Laki Laki,12,85,37,tidak stunting
+20,Laki Laki,14,76,33,stunting
+20,Laki Laki,14,75,30,stunting
+20,Laki Laki,13,80,31,stunting
+20,Laki Laki,12,85,30,stunting
+20,Laki Laki,12,76,34,stunting
+20,Laki Laki,12,80,30,stunting
+20,Laki Laki,14,76,31,stunting
+20,Laki Laki,14,86,34,stunting
+20,Laki Laki,12,79,34,stunting
+20,Laki Laki,12,77,33,stunting
+20,Laki Laki,13,81,36,tidak stunting
+20,Laki Laki,12,85,34,stunting
+20,Laki Laki,14,81,37,tidak stunting
+20,Laki Laki,14,86,36,tidak stunting
+20,Laki Laki,13,89,33,stunting
+20,Laki Laki,13,78,30,stunting
+20,Laki Laki,13,77,38,stunting
+20,Laki Laki,14,88,33,stunting
+20,Laki Laki,12,86,35,tidak stunting
+20,Laki Laki,12,83,37,tidak stunting
+20,Laki Laki,14,86,31,stunting
+20,Laki Laki,13,84,32,stunting
+20,Laki Laki,13,82,31,stunting
+20,Laki Laki,14,76,34,stunting
+20,Laki Laki,12,78,32,stunting
+20,Laki Laki,13,81,30,stunting
+20,Laki Laki,14,75,30,stunting
+20,Laki Laki,14,82,30,stunting
+20,Laki Laki,14,84,31,stunting
+20,Laki Laki,14,75,38,stunting
+20,Laki Laki,13,83,33,stunting
+20,Laki Laki,13,81,37,tidak stunting
+20,Laki Laki,14,79,36,tidak stunting
+20,Laki Laki,12,88,38,tidak stunting
+20,Laki Laki,12,78,37,stunting
+20,Laki Laki,13,86,38,tidak stunting
+20,Laki Laki,13,85,37,tidak stunting
+20,Laki Laki,12,81,38,tidak stunting
+20,Laki Laki,14,84,36,tidak stunting
+20,Laki Laki,14,86,30,stunting
+20,Laki Laki,13,88,36,tidak stunting
+20,Laki Laki,12,89,36,tidak stunting
+20,Laki Laki,12,78,33,stunting
+20,Perempuan,13,87,30,stunting
+20,Perempuan,13,79,33,stunting
+20,Perempuan,13,84,34,tidak stunting
+20,Perempuan,13,77,32,stunting
+20,Perempuan,13,86,36,tidak stunting
+20,Perempuan,13,83,36,tidak stunting
+20,Perempuan,12,78,36,tidak stunting
+20,Perempuan,12,77,34,tidak stunting
+20,Perempuan,12,86,33,stunting
+20,Perempuan,13,77,35,tidak stunting
+20,Perempuan,12,85,33,stunting
+20,Perempuan,12,84,36,tidak stunting
+20,Perempuan,13,86,30,stunting
+20,Perempuan,13,88,35,tidak stunting
+20,Perempuan,12,81,33,stunting
+20,Perempuan,12,88,31,stunting
+20,Perempuan,12,77,37,tidak stunting
+20,Perempuan,12,78,31,stunting
+20,Perempuan,12,88,36,tidak stunting
+20,Perempuan,13,75,35,stunting
+20,Perempuan,12,85,34,tidak stunting
+20,Perempuan,12,82,31,stunting
+20,Perempuan,13,78,32,stunting
+20,Perempuan,13,76,34,stunting
+20,Perempuan,12,75,33,stunting
+20,Perempuan,12,85,35,tidak stunting
+20,Perempuan,13,81,37,tidak stunting
+20,Perempuan,13,79,30,stunting
+20,Perempuan,13,88,32,stunting
+20,Perempuan,13,77,36,tidak stunting
+20,Perempuan,12,84,33,stunting
+20,Perempuan,12,85,36,tidak stunting
+20,Perempuan,13,88,30,stunting
+20,Perempuan,13,82,36,tidak stunting
+20,Perempuan,13,88,35,tidak stunting
+20,Perempuan,13,75,30,stunting
+20,Perempuan,13,84,31,stunting
+20,Perempuan,12,76,31,stunting
+20,Perempuan,13,84,30,stunting
+20,Perempuan,13,88,36,tidak stunting
+20,Perempuan,13,84,33,stunting
+20,Perempuan,12,76,35,stunting
+20,Perempuan,12,84,32,stunting
+20,Perempuan,13,85,37,tidak stunting
+20,Perempuan,13,77,33,stunting
+20,Perempuan,13,75,36,stunting
+20,Perempuan,12,85,31,stunting
+20,Perempuan,13,76,30,stunting
+20,Perempuan,13,78,32,stunting
+20,Perempuan,13,83,33,stunting
+21,Laki Laki,14,77,30,stunting
+21,Laki Laki,13,78,30,stunting
+21,Laki Laki,12,76,31,stunting
+21,Laki Laki,12,84,38,tidak stunting
+21,Laki Laki,14,77,38,stunting
+21,Laki Laki,14,81,36,tidak stunting
+21,Laki Laki,13,76,34,stunting
+21,Laki Laki,13,81,30,stunting
+21,Laki Laki,12,76,35,stunting
+21,Laki Laki,14,78,38,stunting
+21,Laki Laki,13,84,34,stunting
+21,Laki Laki,12,81,31,stunting
+21,Laki Laki,12,77,30,stunting
+21,Laki Laki,12,83,35,tidak stunting
+21,Laki Laki,13,87,38,tidak stunting
+21,Laki Laki,13,86,36,tidak stunting
+21,Laki Laki,14,88,36,tidak stunting
+21,Laki Laki,12,85,37,tidak stunting
+21,Laki Laki,12,87,34,stunting
+21,Laki Laki,13,90,35,tidak stunting
+21,Laki Laki,12,83,32,stunting
+21,Laki Laki,12,81,38,tidak stunting
+21,Laki Laki,13,82,33,stunting
+21,Laki Laki,12,78,38,stunting
+21,Laki Laki,12,85,35,tidak stunting
+21,Laki Laki,14,77,30,stunting
+21,Laki Laki,12,76,38,stunting
+21,Laki Laki,13,89,38,tidak stunting
+21,Laki Laki,12,89,36,tidak stunting
+21,Laki Laki,12,80,32,stunting
+21,Laki Laki,12,85,32,stunting
+21,Laki Laki,14,83,35,tidak stunting
+21,Laki Laki,14,86,35,tidak stunting
+21,Laki Laki,12,87,32,stunting
+21,Laki Laki,13,90,38,tidak stunting
+21,Laki Laki,14,85,38,tidak stunting
+21,Laki Laki,13,75,30,stunting
+21,Laki Laki,14,81,30,stunting
+21,Laki Laki,13,89,36,tidak stunting
+21,Laki Laki,13,87,32,stunting
+21,Laki Laki,14,81,34,stunting
+21,Laki Laki,14,88,38,tidak stunting
+21,Laki Laki,12,76,36,stunting
+21,Laki Laki,12,76,38,stunting
+21,Laki Laki,14,89,33,stunting
+21,Laki Laki,12,78,30,stunting
+21,Laki Laki,14,90,38,tidak stunting
+21,Laki Laki,12,88,32,stunting
+21,Laki Laki,12,87,37,tidak stunting
+21,Laki Laki,14,78,35,stunting
+21,Perempuan,13,76,35,stunting
+21,Perempuan,14,85,32,stunting
+21,Perempuan,13,78,37,tidak stunting
+21,Perempuan,14,87,37,tidak stunting
+21,Perempuan,14,87,36,tidak stunting
+21,Perempuan,14,86,37,tidak stunting
+21,Perempuan,14,89,36,tidak stunting
+21,Perempuan,14,76,31,stunting
+21,Perempuan,14,83,31,stunting
+21,Perempuan,13,86,36,tidak stunting
+21,Perempuan,14,77,35,stunting
+21,Perempuan,13,85,33,stunting
+21,Perempuan,13,86,37,tidak stunting
+21,Perempuan,14,83,30,stunting
+21,Perempuan,13,85,33,stunting
+21,Perempuan,14,85,35,tidak stunting
+21,Perempuan,13,87,33,stunting
+21,Perempuan,14,75,36,stunting
+21,Perempuan,14,75,37,stunting
+21,Perempuan,13,85,37,tidak stunting
+21,Perempuan,14,83,30,stunting
+21,Perempuan,13,87,35,tidak stunting
+21,Perempuan,13,80,30,stunting
+21,Perempuan,13,78,36,tidak stunting
+21,Perempuan,13,89,30,stunting
+21,Perempuan,14,84,31,stunting
+21,Perempuan,13,82,34,tidak stunting
+21,Perempuan,14,82,32,stunting
+21,Perempuan,13,78,30,stunting
+21,Perempuan,14,89,31,stunting
+21,Perempuan,14,80,30,stunting
+21,Perempuan,13,76,34,stunting
+21,Perempuan,14,87,32,stunting
+21,Perempuan,14,88,30,stunting
+21,Perempuan,14,78,35,tidak stunting
+21,Perempuan,14,78,36,tidak stunting
+21,Perempuan,13,82,33,stunting
+21,Perempuan,13,83,33,stunting
+21,Perempuan,14,79,32,stunting
+21,Perempuan,14,76,31,stunting
+21,Perempuan,13,88,31,stunting
+21,Perempuan,13,88,33,stunting
+21,Perempuan,13,77,34,stunting
+21,Perempuan,14,85,37,tidak stunting
+21,Perempuan,14,89,34,tidak stunting
+21,Perempuan,13,77,35,stunting
+21,Perempuan,13,76,35,stunting
+21,Perempuan,14,86,30,stunting
+21,Perempuan,14,85,31,stunting
+21,Perempuan,13,87,30,stunting
+22,Laki Laki,13,84,37,tidak stunting
+22,Laki Laki,14,82,33,stunting
+22,Laki Laki,14,83,33,stunting
+22,Laki Laki,13,90,34,stunting
+22,Laki Laki,14,88,30,stunting
+22,Laki Laki,13,85,38,tidak stunting
+22,Laki Laki,14,79,32,stunting
+22,Laki Laki,13,87,38,tidak stunting
+22,Laki Laki,14,83,34,stunting
+22,Laki Laki,14,77,33,stunting
+22,Laki Laki,14,83,34,stunting
+22,Laki Laki,13,76,33,stunting
+22,Laki Laki,14,79,33,stunting
+22,Laki Laki,14,83,32,stunting
+22,Laki Laki,13,77,32,stunting
+22,Laki Laki,13,84,31,stunting
+22,Laki Laki,14,78,34,stunting
+22,Laki Laki,14,91,30,stunting
+22,Laki Laki,13,82,37,tidak stunting
+22,Laki Laki,13,78,34,stunting
+22,Laki Laki,14,76,33,stunting
+22,Laki Laki,14,77,37,stunting
+22,Laki Laki,14,81,34,stunting
+22,Laki Laki,13,76,30,stunting
+22,Laki Laki,13,86,33,stunting
+22,Laki Laki,14,79,35,stunting
+22,Laki Laki,13,86,33,stunting
+22,Laki Laki,14,81,34,stunting
+22,Laki Laki,13,88,37,tidak stunting
+22,Laki Laki,14,80,37,stunting
+22,Laki Laki,14,85,36,tidak stunting
+22,Laki Laki,14,89,30,stunting
+22,Laki Laki,13,79,38,stunting
+22,Laki Laki,14,75,34,stunting
+22,Laki Laki,14,82,38,tidak stunting
+22,Laki Laki,14,83,36,tidak stunting
+22,Laki Laki,13,80,31,stunting
+22,Laki Laki,13,89,36,tidak stunting
+22,Laki Laki,13,90,30,stunting
+22,Laki Laki,13,86,32,stunting
+22,Laki Laki,14,79,32,stunting
+22,Laki Laki,13,80,38,stunting
+22,Laki Laki,13,83,35,tidak stunting
+22,Laki Laki,13,79,38,stunting
+22,Laki Laki,13,84,35,tidak stunting
+22,Laki Laki,14,83,31,stunting
+22,Laki Laki,13,78,36,stunting
+22,Laki Laki,14,85,34,stunting
+22,Laki Laki,14,89,32,stunting
+22,Laki Laki,14,75,34,stunting
+22,Perempuan,12,88,34,stunting
+22,Perempuan,13,88,34,stunting
+22,Perempuan,13,81,36,tidak stunting
+22,Perempuan,12,79,32,stunting
+22,Perempuan,12,77,33,stunting
+22,Perempuan,12,78,32,stunting
+22,Perempuan,12,83,32,stunting
+22,Perempuan,14,76,31,stunting
+22,Perempuan,14,82,37,tidak stunting
+22,Perempuan,14,86,33,stunting
+22,Perempuan,13,84,35,tidak stunting
+22,Perempuan,12,75,36,stunting
+22,Perempuan,13,84,34,stunting
+22,Perempuan,14,77,32,stunting
+22,Perempuan,12,90,33,stunting
+22,Perempuan,12,85,33,stunting
+22,Perempuan,13,78,37,stunting
+22,Perempuan,13,76,33,stunting
+22,Perempuan,14,78,37,stunting
+22,Perempuan,13,78,33,stunting
+22,Perempuan,14,78,33,stunting
+22,Perempuan,14,79,32,stunting
+22,Perempuan,12,85,36,tidak stunting
+22,Perempuan,12,89,35,tidak stunting
+22,Perempuan,13,90,32,stunting
+22,Perempuan,12,83,31,stunting
+22,Perempuan,14,89,35,tidak stunting
+22,Perempuan,14,83,31,stunting
+22,Perempuan,13,78,36,stunting
+22,Perempuan,13,84,37,tidak stunting
+22,Perempuan,12,77,31,stunting
+22,Perempuan,13,82,31,stunting
+22,Perempuan,13,78,33,stunting
+22,Perempuan,14,76,31,stunting
+22,Perempuan,12,81,33,stunting
+22,Perempuan,13,90,35,tidak stunting
+22,Perempuan,13,78,35,stunting
+22,Perempuan,13,76,33,stunting
+22,Perempuan,12,78,34,stunting
+22,Perempuan,12,87,36,tidak stunting
+22,Perempuan,13,86,37,tidak stunting
+22,Perempuan,12,85,32,stunting
+22,Perempuan,14,86,37,tidak stunting
+22,Perempuan,14,82,34,stunting
+22,Perempuan,12,82,34,stunting
+22,Perempuan,14,84,35,tidak stunting
+22,Perempuan,13,89,31,stunting
+22,Perempuan,13,79,36,tidak stunting
+22,Perempuan,12,77,32,stunting
+22,Perempuan,14,81,31,stunting
+23,Laki Laki,13,87,34,stunting
+23,Laki Laki,11,78,34,stunting
+23,Laki Laki,12,85,35,tidak stunting
+23,Laki Laki,7,77,32,stunting
+23,Laki Laki,12,90,37,tidak stunting
+23,Laki Laki,8,81,31,stunting
+23,Laki Laki,11,77,34,stunting
+23,Laki Laki,8,76,32,stunting
+23,Laki Laki,6,82,36,stunting
+23,Laki Laki,5,88,32,stunting
+23,Laki Laki,13,87,35,tidak stunting
+23,Laki Laki,6,90,36,stunting
+23,Laki Laki,6,77,38,stunting
+23,Laki Laki,5,76,30,stunting
+23,Laki Laki,8,84,30,stunting
+23,Laki Laki,15,91,32,stunting
+23,Laki Laki,8,90,33,stunting
+23,Laki Laki,11,79,38,stunting
+23,Laki Laki,6,88,35,stunting
+23,Laki Laki,14,87,35,tidak stunting
+23,Laki Laki,9,82,31,stunting
+23,Laki Laki,15,81,36,tidak stunting
+23,Laki Laki,12,77,36,stunting
+23,Laki Laki,13,81,31,stunting
+23,Laki Laki,13,92,37,tidak stunting
+23,Laki Laki,8,84,32,stunting
+23,Laki Laki,7,85,35,stunting
+23,Laki Laki,15,80,30,stunting
+23,Laki Laki,11,82,37,tidak stunting
+23,Laki Laki,7,90,34,stunting
+23,Laki Laki,13,75,30,stunting
+23,Laki Laki,10,79,33,stunting
+23,Laki Laki,14,89,32,stunting
+23,Laki Laki,8,80,35,stunting
+23,Laki Laki,14,90,37,tidak stunting
+23,Laki Laki,14,89,35,tidak stunting
+23,Laki Laki,15,86,30,stunting
+23,Laki Laki,7,80,30,stunting
+23,Laki Laki,15,92,38,tidak stunting
+23,Laki Laki,12,89,34,stunting
+23,Laki Laki,6,80,33,stunting
+23,Laki Laki,15,80,30,stunting
+23,Laki Laki,6,86,35,stunting
+23,Laki Laki,11,77,31,stunting
+23,Laki Laki,13,87,34,stunting
+23,Laki Laki,12,86,35,tidak stunting
+23,Laki Laki,12,80,38,stunting
+23,Laki Laki,14,82,36,tidak stunting
+23,Laki Laki,9,78,31,stunting
+23,Laki Laki,14,77,32,stunting
+23,Perempuan,13,83,35,tidak stunting
+23,Perempuan,7,78,37,stunting
+23,Perempuan,13,76,32,stunting
+23,Perempuan,6,91,32,stunting
+23,Perempuan,8,84,35,stunting
+23,Perempuan,8,80,33,stunting
+23,Perempuan,6,75,35,stunting
+23,Perempuan,6,81,34,stunting
+23,Perempuan,10,86,36,tidak stunting
+23,Perempuan,9,91,32,stunting
+23,Perempuan,14,77,36,stunting
+23,Perempuan,9,83,33,stunting
+23,Perempuan,5,84,37,stunting
+23,Perempuan,13,91,37,tidak stunting
+23,Perempuan,11,87,37,tidak stunting
+23,Perempuan,11,78,34,stunting
+23,Perempuan,9,91,34,stunting
+23,Perempuan,7,91,30,stunting
+23,Perempuan,14,82,30,stunting
+23,Perempuan,13,89,32,stunting
+23,Perempuan,14,77,30,stunting
+23,Perempuan,10,89,37,tidak stunting
+23,Perempuan,5,82,31,stunting
+23,Perempuan,10,85,33,stunting
+23,Perempuan,5,77,30,stunting
+23,Perempuan,10,75,36,stunting
+23,Perempuan,13,81,36,tidak stunting
+23,Perempuan,12,88,30,stunting
+23,Perempuan,13,90,31,stunting
+23,Perempuan,11,83,33,stunting
+23,Perempuan,12,84,35,tidak stunting
+23,Perempuan,13,78,34,stunting
+23,Perempuan,12,91,32,stunting
+23,Perempuan,12,78,30,stunting
+23,Perempuan,7,77,37,stunting
+23,Perempuan,9,83,37,tidak stunting
+23,Perempuan,13,91,36,tidak stunting
+23,Perempuan,14,88,30,stunting
+23,Perempuan,14,79,37,stunting
+23,Perempuan,10,80,33,stunting
+23,Perempuan,8,79,30,stunting
+23,Perempuan,6,76,34,stunting
+23,Perempuan,12,78,36,stunting
+23,Perempuan,6,89,36,stunting
+23,Perempuan,12,77,32,stunting
+23,Perempuan,13,78,33,stunting
+23,Perempuan,13,88,35,tidak stunting
+23,Perempuan,5,80,33,stunting
+23,Perempuan,12,81,31,stunting
+23,Perempuan,11,80,31,stunting
+24,Laki Laki,15,92,33,stunting
+24,Laki Laki,11,76,36,stunting
+24,Laki Laki,7,90,31,stunting
+24,Laki Laki,15,82,36,tidak stunting
+24,Laki Laki,8,78,35,stunting
+24,Laki Laki,15,89,33,stunting
+24,Laki Laki,12,91,30,stunting
+24,Laki Laki,12,81,38,stunting
+24,Laki Laki,9,89,35,stunting
+24,Laki Laki,14,77,35,stunting
+24,Laki Laki,9,81,36,stunting
+24,Laki Laki,5,78,34,stunting
+24,Laki Laki,10,93,32,stunting
+24,Laki Laki,15,89,36,tidak stunting
+24,Laki Laki,10,80,31,stunting
+24,Laki Laki,14,92,32,stunting
+24,Laki Laki,7,92,31,stunting
+24,Laki Laki,5,78,32,stunting
+24,Laki Laki,15,80,31,stunting
+24,Laki Laki,6,91,31,stunting
+24,Laki Laki,9,81,33,stunting
+24,Laki Laki,7,78,38,stunting
+24,Laki Laki,13,81,33,stunting
+24,Laki Laki,6,76,32,stunting
+24,Laki Laki,10,84,36,tidak stunting
+24,Laki Laki,6,92,37,stunting
+24,Laki Laki,12,89,35,tidak stunting
+24,Laki Laki,13,79,33,stunting
+24,Laki Laki,10,80,37,stunting
+24,Laki Laki,11,76,34,stunting
+24,Laki Laki,14,82,33,stunting
+24,Laki Laki,5,85,32,stunting
+24,Laki Laki,5,86,32,stunting
+24,Laki Laki,10,91,33,stunting
+24,Laki Laki,12,77,32,stunting
+24,Laki Laki,8,86,34,stunting
+24,Laki Laki,13,83,34,stunting
+24,Laki Laki,5,86,35,stunting
+24,Laki Laki,15,79,38,stunting
+24,Laki Laki,8,93,34,stunting
+24,Laki Laki,15,89,37,tidak stunting
+24,Laki Laki,7,86,30,stunting
+24,Laki Laki,14,76,30,stunting
+24,Laki Laki,11,87,36,tidak stunting
+24,Laki Laki,10,79,31,stunting
+24,Laki Laki,7,89,38,stunting
+24,Laki Laki,5,80,36,stunting
+24,Laki Laki,15,77,33,stunting
+24,Laki Laki,7,93,30,stunting
+24,Laki Laki,10,77,32,stunting
+24,Perempuan,8,78,31,stunting
+24,Perempuan,12,84,37,tidak stunting
+24,Perempuan,11,81,32,stunting
+24,Perempuan,12,89,36,tidak stunting
+24,Perempuan,11,79,34,stunting
+24,Perempuan,14,78,37,stunting
+24,Perempuan,6,89,36,stunting
+24,Perempuan,8,91,31,stunting
+24,Perempuan,13,83,31,stunting
+24,Perempuan,14,77,34,stunting
+24,Perempuan,5,78,30,stunting
+24,Perempuan,8,81,34,stunting
+24,Perempuan,11,84,37,tidak stunting
+24,Perempuan,11,91,36,tidak stunting
+24,Perempuan,8,89,34,stunting
+24,Perempuan,11,80,30,stunting
+24,Perempuan,14,85,37,tidak stunting
+24,Perempuan,7,86,36,stunting
+24,Perempuan,13,76,36,stunting
+24,Perempuan,8,86,31,stunting
+24,Perempuan,7,76,34,stunting
+24,Perempuan,7,80,30,stunting
+24,Perempuan,14,83,32,stunting
+24,Perempuan,5,75,32,stunting
+24,Perempuan,14,79,36,stunting
+24,Perempuan,5,87,35,stunting
+24,Perempuan,10,92,37,tidak stunting
+24,Perempuan,10,78,33,stunting
+24,Perempuan,12,86,31,stunting
+24,Perempuan,9,86,31,stunting
+24,Perempuan,13,76,37,stunting
+24,Perempuan,14,84,37,tidak stunting
+24,Perempuan,14,92,35,tidak stunting
+24,Perempuan,13,81,30,stunting
+24,Perempuan,9,76,30,stunting
+24,Perempuan,12,87,37,tidak stunting
+24,Perempuan,7,85,31,stunting
+24,Perempuan,6,85,32,stunting
+24,Perempuan,12,87,30,stunting
+24,Perempuan,9,83,32,stunting
+24,Perempuan,14,85,31,stunting
+24,Perempuan,14,78,32,stunting
+24,Perempuan,13,91,36,tidak stunting
+24,Perempuan,11,88,37,tidak stunting
+24,Perempuan,10,77,30,stunting
+24,Perempuan,14,80,31,stunting
+24,Perempuan,6,77,33,stunting
+24,Perempuan,7,92,32,stunting
+24,Perempuan,11,83,35,tidak stunting
+24,Perempuan,12,92,36,tidak stunting
+25,Laki Laki,9,92,38,stunting
+25,Laki Laki,8,77,32,stunting
+25,Laki Laki,12,80,31,stunting
+25,Laki Laki,7,80,36,stunting
+25,Laki Laki,9,85,31,stunting
+25,Laki Laki,10,92,34,stunting
+25,Laki Laki,10,84,38,tidak stunting
+25,Laki Laki,8,76,35,stunting
+25,Laki Laki,11,82,33,stunting
+25,Laki Laki,14,80,34,stunting
+25,Laki Laki,7,87,32,stunting
+25,Laki Laki,14,80,37,stunting
+25,Laki Laki,11,91,34,stunting
+25,Laki Laki,7,83,38,stunting
+25,Laki Laki,6,84,38,stunting
+25,Laki Laki,8,78,33,stunting
+25,Laki Laki,8,85,36,stunting
+25,Laki Laki,8,84,38,stunting
+25,Laki Laki,5,94,32,stunting
+25,Laki Laki,13,83,38,tidak stunting
+25,Laki Laki,8,84,37,stunting
+25,Laki Laki,10,77,30,stunting
+25,Laki Laki,8,84,35,stunting
+25,Laki Laki,12,82,35,tidak stunting
+25,Laki Laki,8,76,32,stunting
+25,Laki Laki,5,80,35,stunting
+25,Laki Laki,5,83,34,stunting
+25,Laki Laki,13,84,34,stunting
+25,Laki Laki,12,87,33,stunting
+25,Laki Laki,11,91,30,stunting
+25,Laki Laki,10,90,32,stunting
+25,Laki Laki,13,81,32,stunting
+25,Laki Laki,14,93,32,stunting
+25,Laki Laki,15,92,38,tidak stunting
+25,Laki Laki,11,82,36,tidak stunting
+25,Laki Laki,7,80,32,stunting
+25,Laki Laki,9,79,37,stunting
+25,Laki Laki,7,80,33,stunting
+25,Laki Laki,8,87,31,stunting
+25,Laki Laki,11,84,31,stunting
+25,Laki Laki,11,91,37,tidak stunting
+25,Laki Laki,8,86,35,stunting
+25,Laki Laki,11,77,37,stunting
+25,Laki Laki,10,91,34,stunting
+25,Laki Laki,5,93,33,stunting
+25,Laki Laki,11,85,32,stunting
+25,Laki Laki,6,88,32,stunting
+25,Laki Laki,11,84,33,stunting
+25,Laki Laki,6,87,33,stunting
+25,Laki Laki,9,83,31,stunting
+25,Perempuan,12,91,31,stunting
+25,Perempuan,8,89,38,stunting
+25,Perempuan,15,91,32,stunting
+25,Perempuan,15,90,35,tidak stunting
+25,Perempuan,6,84,30,stunting
+25,Perempuan,12,82,31,stunting
+25,Perempuan,11,85,37,tidak stunting
+25,Perempuan,5,91,38,stunting
+25,Perempuan,13,77,33,stunting
+25,Perempuan,11,89,31,stunting
+25,Perempuan,8,91,33,stunting
+25,Perempuan,8,93,30,stunting
+25,Perempuan,15,89,32,stunting
+25,Perempuan,7,81,31,stunting
+25,Perempuan,10,89,35,tidak stunting
+25,Perempuan,9,77,36,stunting
+25,Perempuan,12,90,37,tidak stunting
+25,Perempuan,15,90,33,stunting
+25,Perempuan,14,92,36,tidak stunting
+25,Perempuan,13,89,30,stunting
+25,Perempuan,10,77,33,stunting
+25,Perempuan,8,78,32,stunting
+25,Perempuan,13,85,35,tidak stunting
+25,Perempuan,13,80,31,stunting
+25,Perempuan,15,82,33,stunting
+25,Perempuan,8,93,35,stunting
+25,Perempuan,5,81,38,stunting
+25,Perempuan,11,80,33,stunting
+25,Perempuan,13,78,38,stunting
+25,Perempuan,15,87,31,stunting
+25,Perempuan,14,93,34,stunting
+25,Perempuan,8,88,33,stunting
+25,Perempuan,11,85,33,stunting
+25,Perempuan,7,78,32,stunting
+25,Perempuan,11,85,38,tidak stunting
+25,Perempuan,8,93,38,stunting
+25,Perempuan,12,93,37,tidak stunting
+25,Perempuan,13,82,30,stunting
+25,Perempuan,8,77,34,stunting
+25,Perempuan,6,84,37,stunting
+25,Perempuan,6,87,33,stunting
+25,Perempuan,14,90,34,stunting
+25,Perempuan,12,77,32,stunting
+25,Perempuan,15,91,31,stunting
+25,Perempuan,15,91,37,tidak stunting
+25,Perempuan,15,87,37,tidak stunting
+25,Perempuan,7,81,32,stunting
+25,Perempuan,7,80,31,stunting
+25,Perempuan,5,84,33,stunting
+25,Perempuan,7,82,31,stunting
+26,Laki Laki,6,83,38,stunting
+26,Laki Laki,14,94,35,stunting
+26,Laki Laki,7,86,33,stunting
+26,Laki Laki,7,89,38,stunting
+26,Laki Laki,12,93,36,tidak stunting
+26,Laki Laki,7,79,38,stunting
+26,Laki Laki,8,88,36,stunting
+26,Laki Laki,13,85,36,tidak stunting
+26,Laki Laki,15,94,37,tidak stunting
+26,Laki Laki,13,94,35,stunting
+26,Laki Laki,10,81,34,stunting
+26,Laki Laki,11,89,31,stunting
+26,Laki Laki,13,85,32,stunting
+26,Laki Laki,13,90,36,tidak stunting
+26,Laki Laki,6,89,31,stunting
+26,Laki Laki,15,78,34,stunting
+26,Laki Laki,7,91,34,stunting
+26,Laki Laki,10,79,32,stunting
+26,Laki Laki,13,88,35,stunting
+26,Laki Laki,11,89,35,stunting
+26,Laki Laki,13,85,32,stunting
+26,Laki Laki,6,89,34,stunting
+26,Laki Laki,6,91,35,stunting
+26,Laki Laki,11,82,31,stunting
+26,Laki Laki,14,92,31,stunting
+26,Laki Laki,12,89,33,stunting
+26,Laki Laki,10,80,38,stunting
+26,Laki Laki,10,91,33,stunting
+26,Laki Laki,9,82,36,stunting
+26,Laki Laki,8,92,32,stunting
+26,Laki Laki,10,84,32,stunting
+26,Laki Laki,13,95,33,stunting
+26,Laki Laki,10,95,31,stunting
+26,Laki Laki,15,81,34,stunting
+26,Laki Laki,8,95,32,stunting
+26,Laki Laki,9,86,33,stunting
+26,Laki Laki,6,95,36,stunting
+26,Laki Laki,10,86,34,stunting
+26,Laki Laki,15,90,31,stunting
+26,Laki Laki,6,89,35,stunting
+26,Laki Laki,14,95,36,tidak stunting
+26,Laki Laki,11,80,38,stunting
+26,Laki Laki,10,92,37,tidak stunting
+26,Laki Laki,15,78,32,stunting
+26,Laki Laki,14,79,36,stunting
+26,Laki Laki,14,87,34,stunting
+26,Laki Laki,6,86,31,stunting
+26,Laki Laki,7,85,33,stunting
+26,Laki Laki,7,94,33,stunting
+26,Laki Laki,9,89,35,stunting
+26,Perempuan,9,84,31,stunting
+26,Perempuan,12,82,38,tidak stunting
+26,Perempuan,14,76,32,stunting
+26,Perempuan,6,79,31,stunting
+26,Perempuan,12,93,37,tidak stunting
+26,Perempuan,13,80,34,stunting
+26,Perempuan,8,79,36,stunting
+26,Perempuan,8,91,33,stunting
+26,Perempuan,14,84,35,tidak stunting
+26,Perempuan,6,84,31,stunting
+26,Perempuan,8,91,36,stunting
+26,Perempuan,11,83,38,tidak stunting
+26,Perempuan,9,92,30,stunting
+26,Perempuan,15,80,34,stunting
+26,Perempuan,15,77,37,stunting
+26,Perempuan,15,93,31,stunting
+26,Perempuan,7,82,33,stunting
+26,Perempuan,8,77,30,stunting
+26,Perempuan,6,91,31,stunting
+26,Perempuan,9,93,37,stunting
+26,Perempuan,8,92,33,stunting
+26,Perempuan,6,89,37,stunting
+26,Perempuan,6,77,33,stunting
+26,Perempuan,13,81,36,tidak stunting
+26,Perempuan,7,80,37,stunting
+26,Perempuan,15,92,30,stunting
+26,Perempuan,11,76,34,stunting
+26,Perempuan,11,85,32,stunting
+26,Perempuan,12,88,38,tidak stunting
+26,Perempuan,8,81,33,stunting
+26,Perempuan,8,79,35,stunting
+26,Perempuan,6,94,31,stunting
+26,Perempuan,8,87,32,stunting
+26,Perempuan,5,79,32,stunting
+26,Perempuan,13,76,35,stunting
+26,Perempuan,13,88,31,stunting
+26,Perempuan,5,88,33,stunting
+26,Perempuan,13,88,33,stunting
+26,Perempuan,13,76,32,stunting
+26,Perempuan,8,93,32,stunting
+26,Perempuan,13,79,36,stunting
+26,Perempuan,10,79,33,stunting
+26,Perempuan,11,90,33,stunting
+26,Perempuan,6,82,32,stunting
+26,Perempuan,7,89,35,stunting
+26,Perempuan,7,92,33,stunting
+26,Perempuan,9,87,31,stunting
+26,Perempuan,14,77,31,stunting
+26,Perempuan,10,87,38,tidak stunting
+26,Perempuan,9,77,31,stunting
+27,Laki Laki,9,92,36,stunting
+27,Laki Laki,14,87,38,tidak stunting
+27,Laki Laki,9,83,36,stunting
+27,Laki Laki,9,87,37,stunting
+27,Laki Laki,6,81,37,stunting
+27,Laki Laki,6,88,34,stunting
+27,Laki Laki,7,86,32,stunting
+27,Laki Laki,9,91,32,stunting
+27,Laki Laki,10,82,35,stunting
+27,Laki Laki,6,86,34,stunting
+27,Laki Laki,6,91,37,stunting
+27,Laki Laki,16,93,34,stunting
+27,Laki Laki,13,92,37,tidak stunting
+27,Laki Laki,6,84,34,stunting
+27,Laki Laki,16,84,33,stunting
+27,Laki Laki,15,80,35,stunting
+27,Laki Laki,10,86,38,stunting
+27,Laki Laki,14,88,32,stunting
+27,Laki Laki,14,85,34,stunting
+27,Laki Laki,12,87,33,stunting
+27,Laki Laki,7,91,33,stunting
+27,Laki Laki,16,90,33,stunting
+27,Laki Laki,11,89,32,stunting
+27,Laki Laki,16,85,35,stunting
+27,Laki Laki,10,88,35,stunting
+27,Laki Laki,12,93,35,stunting
+27,Laki Laki,9,85,35,stunting
+27,Laki Laki,16,86,36,tidak stunting
+27,Laki Laki,7,85,34,stunting
+27,Laki Laki,7,87,34,stunting
+27,Laki Laki,10,81,33,stunting
+27,Laki Laki,11,90,32,stunting
+27,Laki Laki,9,81,38,stunting
+27,Laki Laki,15,80,33,stunting
+27,Laki Laki,9,85,31,stunting
+27,Laki Laki,12,90,34,stunting
+27,Laki Laki,11,91,38,tidak stunting
+27,Laki Laki,11,86,32,stunting
+27,Laki Laki,7,94,32,stunting
+27,Laki Laki,10,93,35,stunting
+27,Laki Laki,8,90,32,stunting
+27,Laki Laki,13,81,35,stunting
+27,Laki Laki,12,87,32,stunting
+27,Laki Laki,10,83,34,stunting
+27,Laki Laki,10,90,37,stunting
+27,Laki Laki,14,79,34,stunting
+27,Laki Laki,13,93,35,stunting
+27,Laki Laki,6,83,33,stunting
+27,Laki Laki,12,84,31,stunting
+27,Laki Laki,8,82,33,stunting
+27,Perempuan,8,87,32,stunting
+27,Perempuan,9,86,32,stunting
+27,Perempuan,12,91,34,stunting
+27,Perempuan,13,86,34,stunting
+27,Perempuan,11,81,34,stunting
+27,Perempuan,6,91,38,stunting
+27,Perempuan,9,91,34,stunting
+27,Perempuan,14,92,30,stunting
+27,Perempuan,12,81,33,stunting
+27,Perempuan,15,88,36,tidak stunting
+27,Perempuan,8,92,38,stunting
+27,Perempuan,12,83,37,tidak stunting
+27,Perempuan,7,79,35,stunting
+27,Perempuan,9,83,32,stunting
+27,Perempuan,8,88,36,stunting
+27,Perempuan,9,95,30,stunting
+27,Perempuan,14,79,30,stunting
+27,Perempuan,12,86,30,stunting
+27,Perempuan,11,88,35,tidak stunting
+27,Perempuan,7,85,38,stunting
+27,Perempuan,11,80,33,stunting
+27,Perempuan,9,82,36,stunting
+27,Perempuan,9,81,36,stunting
+27,Perempuan,13,80,33,stunting
+27,Perempuan,7,94,35,stunting
+27,Perempuan,6,78,36,stunting
+27,Perempuan,13,77,34,stunting
+27,Perempuan,11,89,31,stunting
+27,Perempuan,10,85,31,stunting
+27,Perempuan,11,87,31,stunting
+27,Perempuan,6,84,34,stunting
+27,Perempuan,12,82,33,stunting
+27,Perempuan,7,92,38,stunting
+27,Perempuan,12,95,36,tidak stunting
+27,Perempuan,9,95,38,stunting
+27,Perempuan,11,86,33,stunting
+27,Perempuan,15,93,30,stunting
+27,Perempuan,12,94,30,stunting
+27,Perempuan,10,82,34,stunting
+27,Perempuan,6,79,37,stunting
+27,Perempuan,11,87,35,tidak stunting
+27,Perempuan,7,90,37,stunting
+27,Perempuan,6,82,35,stunting
+27,Perempuan,10,92,33,stunting
+27,Perempuan,8,87,36,stunting
+27,Perempuan,12,95,30,stunting
+27,Perempuan,12,80,33,stunting
+27,Perempuan,12,93,38,tidak stunting
+27,Perempuan,13,94,32,stunting
+27,Perempuan,9,86,35,stunting
+28,Laki Laki,15,92,37,tidak stunting
+28,Laki Laki,11,83,33,stunting
+28,Laki Laki,14,86,32,stunting
+28,Laki Laki,13,84,37,tidak stunting
+28,Laki Laki,10,89,34,stunting
+28,Laki Laki,7,86,39,stunting
+28,Laki Laki,7,93,36,stunting
+28,Laki Laki,14,82,39,stunting
+28,Laki Laki,16,88,34,stunting
+28,Laki Laki,7,81,34,stunting
+28,Laki Laki,9,88,33,stunting
+28,Laki Laki,11,82,39,stunting
+28,Laki Laki,12,96,32,stunting
+28,Laki Laki,8,90,38,stunting
+28,Laki Laki,7,81,32,stunting
+29,Laki Laki,11,91,37,tidak stunting
+29,Laki Laki,11,96,39,tidak stunting
+29,Laki Laki,12,94,36,tidak stunting
+29,Laki Laki,16,83,36,stunting
+29,Laki Laki,14,94,34,stunting
+29,Laki Laki,10,86,32,stunting
+29,Laki Laki,10,80,33,stunting
+29,Laki Laki,13,81,36,stunting
+29,Laki Laki,13,96,33,stunting
+29,Laki Laki,15,87,37,tidak stunting
+29,Laki Laki,16,93,34,stunting
+29,Laki Laki,15,80,37,stunting
+29,Laki Laki,7,87,35,stunting
+29,Laki Laki,14,91,32,stunting
+29,Laki Laki,7,91,36,stunting
+29,Laki Laki,9,91,39,stunting
+29,Laki Laki,13,92,32,stunting
+29,Laki Laki,9,91,34,stunting
+29,Laki Laki,8,93,38,stunting
+29,Laki Laki,10,82,36,stunting
+29,Laki Laki,10,87,33,stunting
+29,Laki Laki,12,85,34,stunting
+29,Laki Laki,14,80,32,stunting
+29,Laki Laki,13,94,33,stunting
+29,Laki Laki,15,94,34,stunting
+29,Laki Laki,8,87,34,stunting
+29,Laki Laki,15,97,36,tidak stunting
+29,Laki Laki,14,85,39,tidak stunting
+29,Laki Laki,7,84,39,stunting
+29,Laki Laki,7,83,32,stunting
+29,Laki Laki,7,84,35,stunting
+29,Laki Laki,15,96,34,stunting
+29,Laki Laki,12,80,33,stunting
+29,Laki Laki,8,91,36,stunting
+29,Laki Laki,8,95,38,stunting
+29,Perempuan,11,91,35,tidak stunting
+29,Perempuan,13,92,31,stunting
+29,Perempuan,13,93,32,stunting
+29,Perempuan,7,95,31,stunting
+29,Perempuan,7,89,33,stunting
+29,Perempuan,11,80,34,stunting
+29,Perempuan,14,89,36,tidak stunting
+29,Perempuan,8,90,34,stunting
+29,Perempuan,16,85,35,tidak stunting
+29,Perempuan,15,82,36,stunting
+29,Perempuan,8,90,36,stunting
+29,Perempuan,14,86,37,tidak stunting
+29,Perempuan,13,84,35,tidak stunting
+29,Perempuan,10,86,38,tidak stunting
+29,Perempuan,15,84,34,stunting
+29,Perempuan,13,85,34,stunting
+29,Perempuan,12,82,36,stunting
+29,Perempuan,9,89,37,stunting
+29,Perempuan,7,93,36,stunting
+29,Perempuan,7,96,38,stunting
+29,Perempuan,10,94,34,stunting
+29,Perempuan,9,88,36,stunting
+29,Perempuan,9,96,33,stunting
+29,Perempuan,12,80,31,stunting
+29,Perempuan,15,82,37,stunting
+29,Perempuan,13,91,35,tidak stunting
+29,Perempuan,10,86,37,tidak stunting
+29,Perempuan,15,95,35,tidak stunting
+29,Perempuan,8,80,31,stunting
+29,Perempuan,15,94,34,stunting
+29,Perempuan,10,83,36,tidak stunting
+29,Perempuan,7,85,34,stunting
+29,Perempuan,14,86,33,stunting
+29,Perempuan,10,90,35,tidak stunting
+29,Perempuan,10,92,31,stunting
+29,Perempuan,10,82,36,stunting
+29,Perempuan,12,92,36,tidak stunting
+29,Perempuan,11,88,37,tidak stunting
+29,Perempuan,7,93,36,stunting
+29,Perempuan,10,81,33,stunting
+29,Perempuan,14,86,32,stunting
+29,Perempuan,16,87,32,stunting
+29,Perempuan,13,88,33,stunting
+29,Perempuan,13,90,35,tidak stunting
+29,Perempuan,15,80,36,stunting
+29,Perempuan,14,83,33,stunting
+29,Perempuan,15,80,37,stunting
+29,Perempuan,8,96,35,stunting
+29,Perempuan,11,90,34,stunting
+29,Perempuan,7,90,31,stunting
+30,Laki Laki,12,87,35,stunting
+30,Laki Laki,7,95,37,stunting
+30,Laki Laki,10,89,32,stunting
+30,Laki Laki,11,85,37,stunting
+30,Laki Laki,9,97,35,stunting
+30,Laki Laki,14,88,36,tidak stunting
+30,Laki Laki,7,82,32,stunting
+30,Laki Laki,15,91,38,tidak stunting
+30,Laki Laki,10,95,32,stunting
+30,Laki Laki,15,82,33,stunting
+30,Laki Laki,8,84,34,stunting
+30,Laki Laki,7,85,37,stunting
+30,Laki Laki,15,87,36,tidak stunting
+30,Laki Laki,13,98,33,stunting
+30,Laki Laki,10,98,33,stunting
+30,Laki Laki,12,93,36,tidak stunting
+30,Laki Laki,13,93,35,stunting
+30,Laki Laki,7,88,37,stunting
+30,Laki Laki,14,84,35,stunting
+30,Laki Laki,16,82,34,stunting
+30,Laki Laki,10,95,39,stunting
+30,Laki Laki,16,91,33,stunting
+30,Laki Laki,10,86,36,stunting
+30,Laki Laki,8,83,37,stunting
+30,Laki Laki,9,95,36,stunting
+30,Laki Laki,12,84,37,stunting
+30,Laki Laki,10,89,35,stunting
+30,Laki Laki,8,98,36,stunting
+30,Laki Laki,16,92,38,tidak stunting
+30,Laki Laki,10,86,34,stunting
+30,Laki Laki,11,89,37,tidak stunting
+30,Laki Laki,9,94,33,stunting
+30,Laki Laki,8,98,39,stunting
+30,Laki Laki,7,98,33,stunting
+30,Laki Laki,13,84,32,stunting
+30,Laki Laki,15,91,32,stunting
+30,Laki Laki,9,97,37,stunting
+30,Laki Laki,16,94,36,tidak stunting
+30,Laki Laki,16,83,36,stunting
+30,Laki Laki,11,87,36,tidak stunting
+30,Laki Laki,7,85,36,stunting
+30,Laki Laki,12,93,37,tidak stunting
+30,Laki Laki,9,97,33,stunting
+30,Laki Laki,7,98,38,stunting
+30,Laki Laki,10,97,33,stunting
+30,Laki Laki,15,85,35,stunting
+30,Laki Laki,11,96,39,tidak stunting
+30,Laki Laki,7,88,39,stunting
+30,Laki Laki,14,86,33,stunting
+30,Laki Laki,13,90,39,tidak stunting
+30,Perempuan,12,93,37,tidak stunting
+30,Perempuan,9,92,36,stunting
+30,Perempuan,9,91,37,stunting
+30,Perempuan,7,93,33,stunting
+30,Perempuan,7,93,36,stunting
+30,Perempuan,15,92,34,stunting
+30,Perempuan,14,87,31,stunting
+30,Perempuan,16,84,36,tidak stunting
+30,Perempuan,12,82,31,stunting
+30,Perempuan,14,89,33,stunting
+30,Perempuan,7,96,34,stunting
+30,Perempuan,7,90,36,stunting
+30,Perempuan,15,93,35,tidak stunting
+30,Perempuan,15,91,38,tidak stunting
+30,Perempuan,14,97,35,tidak stunting
+30,Perempuan,16,89,37,tidak stunting
+30,Perempuan,15,92,31,stunting
+30,Perempuan,11,96,33,stunting
+30,Perempuan,16,96,35,tidak stunting
+30,Perempuan,16,90,37,tidak stunting
+30,Perempuan,10,84,31,stunting
+30,Perempuan,16,91,31,stunting
+30,Perempuan,10,82,32,stunting
+30,Perempuan,12,96,33,stunting
+30,Perempuan,9,93,38,stunting
+30,Perempuan,15,92,38,tidak stunting
+30,Perempuan,15,86,31,stunting
+30,Perempuan,7,85,35,stunting
+30,Perempuan,7,88,32,stunting
+30,Perempuan,14,95,37,tidak stunting
+30,Perempuan,7,95,31,stunting
+30,Perempuan,15,85,35,tidak stunting
+30,Perempuan,10,84,32,stunting
+30,Perempuan,12,96,32,stunting
+30,Perempuan,10,86,37,tidak stunting
+30,Perempuan,16,94,32,stunting
+30,Perempuan,12,89,32,stunting
+30,Perempuan,16,80,31,stunting
+30,Perempuan,7,87,31,stunting
+30,Perempuan,14,95,31,stunting
+30,Perempuan,16,95,31,stunting
+30,Perempuan,10,84,38,tidak stunting
+30,Perempuan,14,91,36,tidak stunting
+30,Perempuan,15,83,34,stunting
+30,Perempuan,7,88,37,stunting
+30,Perempuan,13,88,34,stunting
+30,Perempuan,16,95,35,tidak stunting
+30,Perempuan,9,84,31,stunting
+30,Perempuan,11,83,34,stunting
+30,Perempuan,15,89,34,stunting
+31,Laki Laki,14,82,36,stunting
+31,Laki Laki,7,93,39,stunting
+31,Laki Laki,13,90,39,tidak stunting
+31,Laki Laki,16,87,35,stunting
+31,Laki Laki,17,95,34,stunting
+31,Laki Laki,11,94,39,tidak stunting
+31,Laki Laki,12,96,32,stunting
+31,Laki Laki,10,85,32,stunting
+31,Laki Laki,10,85,32,stunting
+31,Laki Laki,7,95,38,stunting
+31,Laki Laki,8,90,32,stunting
+31,Laki Laki,12,96,38,tidak stunting
+31,Laki Laki,11,88,35,stunting
+31,Laki Laki,7,98,39,stunting
+31,Laki Laki,16,85,32,stunting
+31,Laki Laki,10,84,39,stunting
+31,Laki Laki,16,90,39,tidak stunting
+31,Laki Laki,12,86,36,tidak stunting
+31,Laki Laki,8,90,33,stunting
+31,Laki Laki,12,84,33,stunting
+31,Laki Laki,8,85,32,stunting
+31,Laki Laki,8,82,38,stunting
+31,Laki Laki,13,88,35,stunting
+31,Laki Laki,17,87,35,stunting
+31,Laki Laki,9,89,34,stunting
+31,Laki Laki,12,82,39,stunting
+31,Laki Laki,13,96,35,stunting
+31,Laki Laki,13,88,34,stunting
+31,Laki Laki,8,98,35,stunting
+31,Laki Laki,17,92,35,stunting
+31,Laki Laki,14,90,36,tidak stunting
+31,Laki Laki,14,97,37,tidak stunting
+31,Laki Laki,12,93,37,tidak stunting
+31,Laki Laki,12,97,33,stunting
+31,Laki Laki,14,90,34,stunting
+31,Laki Laki,9,93,33,stunting
+31,Laki Laki,11,94,36,tidak stunting
+31,Laki Laki,13,97,34,stunting
+31,Laki Laki,10,98,32,stunting
+31,Laki Laki,10,91,38,stunting
+31,Laki Laki,10,88,35,stunting
+31,Laki Laki,11,85,36,stunting
+31,Laki Laki,15,97,32,stunting
+31,Laki Laki,12,87,32,stunting
+31,Laki Laki,10,99,37,stunting
+31,Laki Laki,8,91,35,stunting
+31,Laki Laki,8,87,37,stunting
+31,Laki Laki,16,85,38,stunting
+31,Laki Laki,8,84,34,stunting
+31,Laki Laki,11,85,33,stunting
+31,Perempuan,11,81,34,stunting
+31,Perempuan,16,85,35,tidak stunting
+31,Perempuan,11,94,33,stunting
+31,Perempuan,13,98,35,tidak stunting
+31,Perempuan,9,85,38,stunting
+31,Perempuan,9,96,37,stunting
+31,Perempuan,16,83,38,stunting
+31,Perempuan,9,89,36,stunting
+31,Perempuan,11,94,35,tidak stunting
+31,Perempuan,13,94,37,tidak stunting
+31,Perempuan,12,98,33,stunting
+31,Perempuan,7,86,36,stunting
+31,Perempuan,16,96,31,stunting
+31,Perempuan,15,85,36,tidak stunting
+31,Perempuan,9,81,36,stunting
+31,Perempuan,15,89,36,tidak stunting
+31,Perempuan,14,95,33,stunting
+31,Perempuan,14,97,38,tidak stunting
+31,Perempuan,16,96,33,stunting
+31,Perempuan,14,91,32,stunting
+31,Perempuan,11,94,36,tidak stunting
+31,Perempuan,13,92,32,stunting
+31,Perempuan,16,85,36,tidak stunting
+31,Perempuan,10,98,37,stunting
+31,Perempuan,11,93,37,tidak stunting
+31,Perempuan,11,89,31,stunting
+31,Perempuan,11,86,34,stunting
+31,Perempuan,10,82,38,stunting
+31,Perempuan,11,90,35,tidak stunting
+31,Perempuan,14,84,31,stunting
+31,Perempuan,9,98,37,stunting
+31,Perempuan,15,83,32,stunting
+31,Perempuan,10,96,38,stunting
+31,Perempuan,16,95,32,stunting
+31,Perempuan,12,96,37,tidak stunting
+31,Perempuan,12,83,35,stunting
+31,Perempuan,7,91,36,stunting
+31,Perempuan,16,91,31,stunting
+31,Perempuan,8,86,34,stunting
+31,Perempuan,15,97,36,tidak stunting
+31,Perempuan,10,95,38,stunting
+31,Perempuan,15,85,38,tidak stunting
+31,Perempuan,14,84,37,stunting
+31,Perempuan,12,82,32,stunting
+31,Perempuan,14,90,38,tidak stunting
+31,Perempuan,7,86,37,stunting
+31,Perempuan,15,90,34,stunting
+31,Perempuan,14,89,34,stunting
+31,Perempuan,9,93,34,stunting
+31,Perempuan,9,84,38,stunting
+32,Laki Laki,11,86,34,stunting
+32,Laki Laki,11,100,33,stunting
+32,Laki Laki,11,90,35,stunting
+32,Laki Laki,11,91,32,stunting
+32,Laki Laki,7,96,38,stunting
+32,Laki Laki,11,100,38,tidak stunting
+32,Laki Laki,14,86,38,stunting
+32,Laki Laki,16,97,35,stunting
+32,Laki Laki,9,94,38,stunting
+32,Laki Laki,15,89,37,tidak stunting
+32,Laki Laki,15,99,34,stunting
+32,Laki Laki,16,98,39,tidak stunting
+32,Laki Laki,7,96,33,stunting
+32,Laki Laki,7,87,39,stunting
+32,Laki Laki,17,85,36,stunting
+32,Laki Laki,10,84,34,stunting
+32,Laki Laki,14,85,39,stunting
+32,Laki Laki,15,93,37,tidak stunting
+32,Laki Laki,15,98,36,tidak stunting
+32,Laki Laki,7,84,36,stunting
+32,Laki Laki,7,99,35,stunting
+32,Laki Laki,13,98,38,tidak stunting
+32,Laki Laki,16,93,34,stunting
+32,Laki Laki,15,100,35,stunting
+32,Laki Laki,9,98,39,stunting
+32,Laki Laki,12,94,35,stunting
+32,Laki Laki,12,86,33,stunting
+32,Laki Laki,16,91,33,stunting
+32,Laki Laki,13,94,33,stunting
+32,Laki Laki,10,86,39,stunting
+32,Laki Laki,15,84,32,stunting
+32,Laki Laki,13,94,36,tidak stunting
+32,Laki Laki,12,95,36,tidak stunting
+32,Laki Laki,9,90,39,stunting
+32,Laki Laki,7,94,38,stunting
+32,Laki Laki,13,99,39,tidak stunting
+32,Laki Laki,12,92,34,stunting
+32,Laki Laki,9,100,38,stunting
+32,Laki Laki,10,86,32,stunting
+32,Laki Laki,10,92,37,stunting
+32,Laki Laki,9,91,37,stunting
+32,Laki Laki,12,95,38,tidak stunting
+32,Laki Laki,12,86,32,stunting
+32,Laki Laki,15,99,32,stunting
+32,Laki Laki,7,91,37,stunting
+32,Laki Laki,17,92,39,tidak stunting
+32,Laki Laki,8,91,33,stunting
+32,Laki Laki,13,86,34,stunting
+32,Laki Laki,12,88,39,tidak stunting
+32,Laki Laki,8,100,35,stunting
+32,Perempuan,16,83,33,stunting
+32,Perempuan,15,87,37,tidak stunting
+32,Perempuan,13,92,37,tidak stunting
+32,Perempuan,13,98,32,stunting
+32,Perempuan,17,99,37,tidak stunting
+32,Perempuan,10,99,38,stunting
+32,Perempuan,7,99,38,stunting
+32,Perempuan,15,94,35,tidak stunting
+32,Perempuan,10,84,31,stunting
+32,Perempuan,8,94,32,stunting
+32,Perempuan,17,88,31,stunting
+32,Perempuan,17,94,35,tidak stunting
+32,Perempuan,15,84,31,stunting
+32,Perempuan,10,99,36,stunting
+32,Perempuan,13,86,36,tidak stunting
+32,Perempuan,12,96,34,stunting
+32,Perempuan,12,95,35,tidak stunting
+32,Perempuan,15,96,35,tidak stunting
+32,Perempuan,14,93,35,tidak stunting
+32,Perempuan,14,93,35,tidak stunting
+32,Perempuan,12,89,37,tidak stunting
+32,Perempuan,16,97,33,stunting
+32,Perempuan,14,88,31,stunting
+32,Perempuan,9,83,38,stunting
+32,Perempuan,13,87,35,tidak stunting
+32,Perempuan,10,83,37,stunting
+32,Perempuan,13,93,34,stunting
+32,Perempuan,17,92,35,tidak stunting
+32,Perempuan,14,88,37,tidak stunting
+32,Perempuan,14,81,34,stunting
+32,Perempuan,11,82,36,stunting
+32,Perempuan,9,88,34,stunting
+32,Perempuan,16,91,34,stunting
+32,Perempuan,7,85,36,stunting
+32,Perempuan,13,93,33,stunting
+32,Perempuan,14,89,34,stunting
+32,Perempuan,16,85,36,tidak stunting
+32,Perempuan,9,91,34,stunting
+32,Perempuan,15,92,36,tidak stunting
+32,Perempuan,15,95,37,tidak stunting
+32,Perempuan,10,85,33,stunting
+32,Perempuan,13,81,34,stunting
+32,Perempuan,7,83,37,stunting
+32,Perempuan,15,81,37,stunting
+32,Perempuan,9,83,35,stunting
+32,Perempuan,13,97,34,stunting
+32,Perempuan,14,99,32,stunting
+32,Perempuan,14,99,37,tidak stunting
+32,Perempuan,8,94,32,stunting
+32,Perempuan,13,97,34,stunting
+33,Laki Laki,8,97,33,stunting
+33,Laki Laki,14,95,39,tidak stunting
+33,Laki Laki,17,84,35,stunting
+33,Laki Laki,15,89,37,tidak stunting
+33,Laki Laki,11,92,34,stunting
+33,Laki Laki,12,91,34,stunting
+33,Laki Laki,11,95,33,stunting
+33,Laki Laki,11,95,37,tidak stunting
+33,Laki Laki,17,98,33,stunting
+33,Laki Laki,15,101,39,tidak stunting
+33,Laki Laki,14,85,39,stunting
+33,Laki Laki,11,101,33,stunting
+33,Laki Laki,13,101,34,stunting
+33,Laki Laki,14,93,36,tidak stunting
+33,Laki Laki,14,97,35,stunting
+33,Laki Laki,8,88,39,stunting
+33,Laki Laki,11,85,38,stunting
+33,Laki Laki,8,99,39,stunting
+33,Laki Laki,14,96,36,tidak stunting
+33,Laki Laki,16,100,39,tidak stunting
+33,Laki Laki,8,92,37,stunting
+33,Laki Laki,17,87,34,stunting
+33,Laki Laki,17,85,39,stunting
+33,Laki Laki,12,101,36,tidak stunting
+33,Laki Laki,11,96,33,stunting
+33,Laki Laki,8,101,34,stunting
+33,Laki Laki,15,87,39,tidak stunting
+33,Laki Laki,15,94,35,stunting
+33,Laki Laki,16,87,39,tidak stunting
+33,Laki Laki,16,94,39,tidak stunting
+33,Laki Laki,17,86,37,stunting
+33,Laki Laki,14,86,39,stunting
+33,Laki Laki,10,99,35,stunting
+33,Laki Laki,9,94,36,stunting
+33,Laki Laki,8,98,33,stunting
+33,Laki Laki,13,90,35,stunting
+33,Laki Laki,13,94,38,tidak stunting
+33,Laki Laki,14,98,36,tidak stunting
+33,Laki Laki,16,87,39,tidak stunting
+33,Laki Laki,16,91,34,stunting
+33,Laki Laki,11,88,33,stunting
+33,Laki Laki,17,93,38,tidak stunting
+33,Laki Laki,8,92,38,stunting
+33,Laki Laki,8,92,33,stunting
+33,Laki Laki,9,89,38,stunting
+33,Laki Laki,16,95,33,stunting
+33,Laki Laki,8,92,36,stunting
+33,Laki Laki,16,99,33,stunting
+33,Laki Laki,13,87,37,tidak stunting
+33,Laki Laki,15,93,36,tidak stunting
+33,Perempuan,16,87,37,tidak stunting
+33,Perempuan,14,89,33,stunting
+33,Perempuan,8,96,36,stunting
+33,Perempuan,10,87,35,stunting
+33,Perempuan,10,94,37,stunting
+33,Perempuan,9,84,37,stunting
+33,Perempuan,11,85,32,stunting
+33,Perempuan,8,87,37,stunting
+33,Perempuan,13,85,33,stunting
+33,Perempuan,8,85,35,stunting
+33,Perempuan,14,91,35,tidak stunting
+33,Perempuan,16,89,35,tidak stunting
+33,Perempuan,15,94,34,stunting
+33,Perempuan,9,84,32,stunting
+33,Perempuan,13,87,36,tidak stunting
+33,Perempuan,12,84,37,stunting
+33,Perempuan,9,89,36,stunting
+33,Perempuan,14,97,32,stunting
+33,Perempuan,8,100,37,stunting
+33,Perempuan,15,92,38,tidak stunting
+33,Perempuan,10,99,36,stunting
+33,Perempuan,9,96,33,stunting
+33,Perempuan,10,88,32,stunting
+33,Perempuan,14,88,34,stunting
+33,Perempuan,12,92,32,stunting
+33,Perempuan,16,84,36,stunting
+33,Perempuan,17,93,33,stunting
+33,Perempuan,15,88,38,tidak stunting
+33,Perempuan,14,95,37,tidak stunting
+33,Perempuan,8,87,34,stunting
+33,Perempuan,8,84,35,stunting
+33,Perempuan,9,91,37,stunting
+33,Perempuan,11,97,32,stunting
+33,Perempuan,8,93,35,stunting
+33,Perempuan,8,92,36,stunting
+33,Perempuan,16,84,37,stunting
+33,Perempuan,9,97,38,stunting
+33,Perempuan,8,96,34,stunting
+33,Perempuan,9,84,37,stunting
+33,Perempuan,15,83,38,stunting
+33,Perempuan,13,97,38,tidak stunting
+33,Perempuan,9,94,35,stunting
+33,Perempuan,8,95,33,stunting
+33,Perempuan,13,90,36,tidak stunting
+33,Perempuan,10,85,33,stunting
+33,Perempuan,12,94,33,stunting
+33,Perempuan,15,85,36,stunting
+33,Perempuan,17,89,37,tidak stunting
+33,Perempuan,11,99,33,stunting
+33,Perempuan,14,89,34,stunting
+34,Laki Laki,16,88,39,tidak stunting
+34,Laki Laki,9,93,38,stunting
+34,Laki Laki,15,92,37,tidak stunting
+34,Laki Laki,12,102,36,tidak stunting
+34,Laki Laki,13,99,35,stunting
+34,Laki Laki,17,93,36,tidak stunting
+34,Laki Laki,17,87,38,stunting
+34,Laki Laki,16,85,36,stunting
+34,Laki Laki,15,99,39,tidak stunting
+34,Laki Laki,9,90,39,stunting
+34,Laki Laki,16,96,37,tidak stunting
+34,Laki Laki,14,89,34,stunting
+34,Laki Laki,17,96,33,stunting
+34,Laki Laki,10,87,35,stunting
+34,Laki Laki,17,90,38,tidak stunting
+34,Laki Laki,11,100,39,tidak stunting
+34,Laki Laki,9,98,36,stunting
+34,Laki Laki,14,97,38,tidak stunting
+34,Laki Laki,14,86,39,stunting
+34,Laki Laki,9,88,34,stunting
+34,Laki Laki,14,90,37,tidak stunting
+34,Laki Laki,10,93,33,stunting
+34,Laki Laki,9,87,33,stunting
+34,Laki Laki,13,100,37,tidak stunting
+34,Laki Laki,9,96,33,stunting
+34,Laki Laki,13,87,33,stunting
+34,Laki Laki,13,102,39,tidak stunting
+34,Laki Laki,14,94,36,tidak stunting
+34,Laki Laki,17,98,38,tidak stunting
+34,Laki Laki,10,102,39,stunting
+34,Laki Laki,15,94,38,tidak stunting
+34,Laki Laki,9,93,35,stunting
+34,Laki Laki,13,86,34,stunting
+34,Laki Laki,14,92,35,stunting
+34,Laki Laki,11,90,38,tidak stunting
+34,Laki Laki,11,96,39,tidak stunting
+34,Laki Laki,16,86,38,stunting
+34,Laki Laki,14,96,36,tidak stunting
+34,Laki Laki,12,102,37,tidak stunting
+34,Laki Laki,9,99,37,stunting
+34,Laki Laki,9,100,39,stunting
+34,Laki Laki,17,89,39,tidak stunting
+34,Laki Laki,11,89,39,tidak stunting
+34,Laki Laki,11,99,36,tidak stunting
+34,Laki Laki,12,102,34,stunting
+34,Laki Laki,13,86,39,stunting
+34,Laki Laki,11,97,39,tidak stunting
+34,Laki Laki,9,99,38,stunting
+34,Laki Laki,14,89,39,tidak stunting
+34,Laki Laki,10,94,33,stunting
+34,Perempuan,15,91,33,stunting
+34,Perempuan,16,84,32,stunting
+34,Perempuan,10,101,36,stunting
+34,Perempuan,11,97,33,stunting
+34,Perempuan,9,101,38,stunting
+34,Perempuan,15,96,33,stunting
+34,Perempuan,12,97,34,stunting
+34,Perempuan,16,89,37,tidak stunting
+34,Perempuan,9,97,36,stunting
+34,Perempuan,11,89,33,stunting
+34,Perempuan,10,101,38,stunting
+34,Perempuan,8,99,38,stunting
+34,Perempuan,12,91,32,stunting
+34,Perempuan,14,84,36,stunting
+34,Perempuan,13,87,36,tidak stunting
+34,Perempuan,9,95,35,stunting
+34,Perempuan,16,98,38,tidak stunting
+34,Perempuan,9,88,33,stunting
+34,Perempuan,17,101,36,tidak stunting
+34,Perempuan,14,94,36,tidak stunting
+34,Perempuan,16,95,34,stunting
+34,Perempuan,11,98,37,tidak stunting
+34,Perempuan,10,98,35,stunting
+34,Perempuan,10,100,35,stunting
+34,Perempuan,9,87,35,stunting
+34,Perempuan,14,87,34,stunting
+34,Perempuan,10,99,33,stunting
+34,Perempuan,13,88,36,tidak stunting
+34,Perempuan,10,91,32,stunting
+34,Perempuan,15,94,38,tidak stunting
+34,Perempuan,8,93,35,stunting
+34,Perempuan,14,93,38,tidak stunting
+34,Perempuan,10,100,34,stunting
+34,Perempuan,10,87,32,stunting
+34,Perempuan,16,100,36,tidak stunting
+34,Perempuan,10,101,33,stunting
+34,Perempuan,12,95,33,stunting
+34,Perempuan,17,99,34,stunting
+34,Perempuan,11,92,33,stunting
+34,Perempuan,16,88,38,tidak stunting
+34,Perempuan,17,90,38,tidak stunting
+34,Perempuan,13,90,36,tidak stunting
+34,Perempuan,17,84,35,stunting
+34,Perempuan,17,99,34,stunting
+34,Perempuan,12,88,35,tidak stunting
+34,Perempuan,10,97,35,stunting
+34,Perempuan,15,96,33,stunting
+34,Perempuan,10,90,32,stunting
+34,Perempuan,9,84,32,stunting
+34,Perempuan,13,96,35,tidak stunting
+35,Laki Laki,8,90,32,stunting
+35,Laki Laki,12,91,39,tidak stunting
+35,Laki Laki,17,95,38,tidak stunting
+35,Laki Laki,15,91,36,tidak stunting
+35,Laki Laki,11,98,35,stunting
+35,Laki Laki,12,94,38,tidak stunting
+35,Laki Laki,16,99,38,tidak stunting
+35,Laki Laki,15,98,33,stunting
+35,Laki Laki,18,102,39,tidak stunting
+35,Laki Laki,9,100,39,stunting
+35,Laki Laki,13,94,37,tidak stunting
+35,Laki Laki,13,91,36,tidak stunting
+35,Laki Laki,14,90,37,tidak stunting
+35,Laki Laki,15,86,37,stunting
+35,Laki Laki,9,92,36,stunting
+35,Laki Laki,16,97,33,stunting
+35,Laki Laki,12,89,37,tidak stunting
+35,Laki Laki,14,98,37,tidak stunting
+35,Laki Laki,14,87,36,stunting
+35,Laki Laki,12,90,35,stunting
+35,Laki Laki,14,98,33,stunting
+35,Laki Laki,16,92,35,stunting
+35,Laki Laki,9,86,38,stunting
+35,Laki Laki,16,87,35,stunting
+35,Laki Laki,13,87,37,stunting
+35,Laki Laki,14,102,35,stunting
+35,Laki Laki,18,87,39,stunting
+35,Laki Laki,15,100,37,tidak stunting
+35,Laki Laki,14,89,33,stunting
+35,Laki Laki,12,92,38,tidak stunting
+35,Laki Laki,16,95,39,tidak stunting
+35,Laki Laki,11,98,35,stunting
+35,Laki Laki,11,94,36,stunting
+35,Laki Laki,11,100,33,stunting
+35,Laki Laki,11,94,35,stunting
+35,Laki Laki,18,102,38,tidak stunting
+35,Laki Laki,15,97,36,tidak stunting
+35,Laki Laki,16,90,36,tidak stunting
+35,Laki Laki,14,99,36,tidak stunting
+35,Laki Laki,9,98,35,stunting
+35,Laki Laki,10,86,36,stunting
+35,Laki Laki,10,89,38,stunting
+35,Laki Laki,15,95,37,tidak stunting
+35,Laki Laki,18,97,33,stunting
+35,Laki Laki,17,97,34,stunting
+35,Laki Laki,18,88,39,stunting
+35,Laki Laki,18,92,37,tidak stunting
+35,Laki Laki,11,92,39,stunting
+35,Laki Laki,10,93,39,stunting
+35,Laki Laki,17,88,35,stunting
+35,Perempuan,14,87,38,tidak stunting
+35,Perempuan,15,92,34,stunting
+35,Perempuan,12,99,34,stunting
+35,Perempuan,16,94,33,stunting
+35,Perempuan,15,85,36,stunting
+35,Perempuan,12,92,37,tidak stunting
+35,Perempuan,9,94,38,stunting
+35,Perempuan,13,95,37,tidak stunting
+35,Perempuan,14,100,36,tidak stunting
+35,Perempuan,10,93,34,stunting
+35,Perempuan,15,99,37,tidak stunting
+35,Perempuan,15,86,36,stunting
+35,Perempuan,17,86,32,stunting
+35,Perempuan,9,93,37,stunting
+35,Perempuan,14,88,35,tidak stunting
+35,Perempuan,10,92,34,stunting
+35,Perempuan,9,98,36,stunting
+35,Perempuan,12,88,36,tidak stunting
+35,Perempuan,17,98,33,stunting
+35,Perempuan,14,85,38,stunting
+35,Perempuan,15,91,33,stunting
+35,Perempuan,10,97,33,stunting
+35,Perempuan,12,87,32,stunting
+35,Perempuan,13,86,34,stunting
+35,Perempuan,13,92,33,stunting
+35,Perempuan,14,93,37,tidak stunting
+35,Perempuan,13,88,36,tidak stunting
+35,Perempuan,16,88,34,stunting
+35,Perempuan,9,86,32,stunting
+35,Perempuan,11,96,34,stunting
+35,Perempuan,13,97,36,tidak stunting
+35,Perempuan,13,84,32,stunting
+35,Perempuan,14,86,38,stunting
+35,Perempuan,12,89,34,stunting
+35,Perempuan,9,92,34,stunting
+35,Perempuan,17,101,37,tidak stunting
+35,Perempuan,9,86,37,stunting
+35,Perempuan,16,89,34,stunting
+35,Perempuan,11,95,38,tidak stunting
+35,Perempuan,16,93,37,tidak stunting
+35,Perempuan,10,100,34,stunting
+35,Perempuan,17,94,33,stunting
+35,Perempuan,16,98,34,stunting
+35,Perempuan,9,101,37,stunting
+35,Perempuan,17,89,36,tidak stunting
+35,Perempuan,17,88,36,tidak stunting
+35,Perempuan,15,92,33,stunting
+35,Perempuan,10,99,32,stunting
+35,Perempuan,15,89,36,tidak stunting
+35,Perempuan,10,99,34,stunting
+36,Laki Laki,18,86,36,stunting
+36,Laki Laki,17,100,37,tidak stunting
+36,Laki Laki,13,97,34,stunting
+36,Laki Laki,10,102,36,stunting
+36,Laki Laki,14,94,39,tidak stunting
+36,Laki Laki,13,87,35,stunting
+36,Laki Laki,17,100,34,stunting
+36,Laki Laki,10,96,34,stunting
+36,Laki Laki,10,92,36,stunting
+36,Laki Laki,17,97,39,tidak stunting
+36,Laki Laki,10,102,39,stunting
+36,Laki Laki,15,91,37,tidak stunting
+36,Laki Laki,11,101,36,stunting
+36,Laki Laki,15,92,35,stunting
+36,Laki Laki,11,92,39,stunting
+36,Laki Laki,15,96,35,stunting
+36,Laki Laki,11,95,37,stunting
+36,Laki Laki,14,88,38,stunting
+36,Laki Laki,12,102,39,tidak stunting
+36,Laki Laki,17,87,36,stunting
+36,Laki Laki,17,98,39,tidak stunting
+36,Laki Laki,18,87,38,stunting
+36,Laki Laki,13,102,38,tidak stunting
+36,Laki Laki,14,98,34,stunting
+36,Laki Laki,12,94,36,tidak stunting
+36,Laki Laki,13,101,34,stunting
+36,Laki Laki,12,96,39,tidak stunting
+36,Laki Laki,17,100,37,tidak stunting
+36,Laki Laki,10,98,37,stunting
+36,Laki Laki,12,94,35,stunting
+36,Laki Laki,18,96,34,stunting
+36,Laki Laki,14,90,38,tidak stunting
+36,Laki Laki,10,88,35,stunting
+36,Laki Laki,9,87,35,stunting
+36,Laki Laki,17,87,37,stunting
+36,Laki Laki,12,92,37,tidak stunting
+36,Laki Laki,17,88,34,stunting
+36,Laki Laki,13,91,35,stunting
+36,Laki Laki,13,91,36,tidak stunting
+36,Laki Laki,13,87,35,stunting
+36,Laki Laki,13,97,34,stunting
+36,Laki Laki,10,91,38,stunting
+36,Laki Laki,13,89,38,tidak stunting
+36,Laki Laki,17,87,39,stunting
+36,Laki Laki,12,93,39,tidak stunting
+36,Laki Laki,15,86,37,stunting
+36,Laki Laki,9,97,34,stunting
+36,Laki Laki,10,91,36,stunting
+36,Laki Laki,10,100,35,stunting
+36,Laki Laki,9,101,38,stunting
+36,Perempuan,16,88,34,stunting
+36,Perempuan,14,86,36,stunting
+36,Perempuan,9,86,34,stunting
+36,Perempuan,11,102,35,tidak stunting
+36,Perempuan,11,89,32,stunting
+36,Perempuan,18,96,32,stunting
+36,Perempuan,12,97,32,stunting
+36,Perempuan,16,91,35,tidak stunting
+36,Perempuan,13,94,38,tidak stunting
+36,Perempuan,16,98,33,stunting
+36,Perempuan,17,100,36,tidak stunting
+36,Perempuan,11,87,33,stunting
+36,Perempuan,9,97,34,stunting
+36,Perempuan,17,87,34,stunting
+36,Perempuan,16,95,32,stunting
+36,Perempuan,15,99,38,tidak stunting
+36,Perempuan,15,92,36,tidak stunting
+36,Perempuan,10,99,32,stunting
+36,Perempuan,11,94,36,tidak stunting
+36,Perempuan,17,95,38,tidak stunting
+36,Perempuan,15,85,38,stunting
+36,Perempuan,15,100,38,tidak stunting
+36,Perempuan,17,87,38,stunting
+36,Perempuan,9,100,35,stunting
+36,Perempuan,17,88,35,tidak stunting
+36,Perempuan,14,97,37,tidak stunting
+36,Perempuan,15,93,38,tidak stunting
+36,Perempuan,15,89,32,stunting
+36,Perempuan,18,93,36,tidak stunting
+36,Perempuan,14,100,37,tidak stunting
+36,Perempuan,12,98,36,tidak stunting
+36,Perempuan,15,86,34,stunting
+36,Perempuan,17,100,36,tidak stunting
+36,Perempuan,15,98,36,tidak stunting
+36,Perempuan,12,99,35,tidak stunting
+36,Perempuan,11,88,32,stunting
+36,Perempuan,16,97,36,tidak stunting
+36,Perempuan,12,87,36,stunting
+36,Perempuan,14,96,37,tidak stunting
+36,Perempuan,18,91,36,tidak stunting
+36,Perempuan,18,102,37,tidak stunting
+36,Perempuan,12,93,37,tidak stunting
+36,Perempuan,9,90,35,stunting
+36,Perempuan,14,85,32,stunting
+36,Perempuan,14,102,34,stunting
+36,Perempuan,9,93,32,stunting
+36,Perempuan,18,99,33,stunting
+36,Perempuan,18,93,34,stunting
+36,Perempuan,11,89,35,tidak stunting
+36,Perempuan,16,89,35,tidak stunting
