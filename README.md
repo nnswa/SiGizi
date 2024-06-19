@@ -11,11 +11,8 @@ Stunting Prediction App adalah aplikasi berbasis machine learning yang dirancang
 
 Data Preprocessing: Menangani nilai yang hilang, menskalakan fitur numerik, dan mengenkripsi variabel kategori.
 
-
 Exploratory Data Analysis (EDA): Memvisualisasikan distribusi data dan hubungan antar fitur.
 
-
 Model Training: Menggunakan neural network untuk belajar dari data yang diberikan.
-
 
 Performance Metrics: Mengevaluasi model menggunakan akurasi, skor ROC-AUC, dan laporan klasifikasi yang terperinci.
